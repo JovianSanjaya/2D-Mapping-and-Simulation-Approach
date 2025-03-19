@@ -605,6 +605,7 @@ progress {
 .img-fluid {
   max-width: 100%;
   height: auto;
+
 }
 
 .img-thumbnail {
@@ -645,6 +646,38 @@ progress {
   margin-right: auto;
   margin-left: auto;
 }
+
+.container-content {
+  max-width: 2700px; 
+  margin: 0 auto;
+  padding: 20px;
+}
+
+
+.title-content{
+  text-align: center;
+  margin-bottom: 20px;
+  font-family: sans-serif;
+  font-weight: 550;
+}
+
+.container-content img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 100px;
+}
+
+.container-content p {
+  text-align: justify;
+  line-height: 1.6;
+  margin-bottom: 1.5em;
+}
+
+.container-content .row > div {
+  padding: 0 35px;
+}
+
 
 @media (min-width: 576px) {
   .container-sm, .container {
@@ -8248,7 +8281,8 @@ textarea.form-control-lg {
 
 .text-white-50 {
   --bs-text-opacity: 1;
-  color: rgba(255, 255, 255, 0.5) !important;
+  color: rgba(255, 255, 255, 0.6) !important;
+  font-size: larger;
 }
 
 .text-reset {
@@ -11123,7 +11157,7 @@ body {
 }
 
 .projects-section {
-  padding: 10rem 0;
+  padding: 13rem 0;
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.9) 100%, rgba(0, 0, 0, 0.9) 100%, rgba(0, 0, 0, 0) 100%);
 }
 
