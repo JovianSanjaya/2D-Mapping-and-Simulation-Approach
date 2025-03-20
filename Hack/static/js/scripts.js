@@ -40,3 +40,17 @@ window.addEventListener('DOMContentLoaded', event => {
 
 });
 
+document.getElementById("year-slider").addEventListener("input", function() {
+    var selectedYear = this.value;
+    document.getElementById("year-label").innerText = selectedYear;
+    fetch('/api/update_map?year=' + selectedYear)
+      .then(response => response.text())
+      .then(data => {
+        document.getElementById("map-frame").srcdoc = data;
+      })
+      .catch(error => console.error('Error fetching map:', error));
+  });
+
+
+
+ 

@@ -1,0 +1,7 @@
+rasterio
+folium
+Flask
+numpy
+pandas
+matplotlib
+seaborn

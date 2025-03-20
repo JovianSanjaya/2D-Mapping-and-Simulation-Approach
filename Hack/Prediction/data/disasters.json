@@ -1,0 +1,4568 @@
+{
+    "0": [
+        {
+            "latitude": 18.724365234375,
+            "longitude": 117.5361328125,
+            "Total Deaths": 893.7386251856263,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 25.0625,
+            "longitude": 90.61669921875,
+            "Total Deaths": 67345.54999692789,
+            "Disaster type": "storm",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 29.578369140625,
+            "longitude": -97.70654296875,
+            "Total Deaths": 149615.73961435465,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 57.08203125,
+            "longitude": 51.40771484375,
+            "Total Deaths": 149187.40438388058,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 46.68115234375,
+            "longitude": 16.14599609375,
+            "Total Deaths": 67276.48397585287,
+            "Disaster type": "storm",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 22.78369140625,
+            "longitude": -83.4482421875,
+            "Total Deaths": 156.8091774395773,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -16.22216796875,
+            "longitude": 46.765625,
+            "Total Deaths": 356.4277587565464,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 31.478515625,
+            "longitude": 99.9267578125,
+            "Total Deaths": 151387.73881129894,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 48.08740234375,
+            "longitude": 9.30322265625,
+            "Total Deaths": 119842.49034019289,
+            "Disaster type": "storm",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 27.93115234375,
+            "longitude": 93.9013671875,
+            "Total Deaths": 113639.78200136122,
+            "Disaster type": "storm",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 47.96923828125,
+            "longitude": 8.52294921875,
+            "Total Deaths": 113605.29445765074,
+            "Disaster type": "storm",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 53.27388572692871,
+            "longitude": 17.745368003845215,
+            "Total Deaths": 149280.42128970727,
+            "Disaster type": "storm",
+            "Disaster subtype": "Derecho",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 20.169189453125,
+            "longitude": -175.13671875,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -27.18695068359375,
+            "longitude": 73.498779296875,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Volcanic activity (General)",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 56.704833984375,
+            "longitude": -24.833984375,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 2.718505859375,
+            "longitude": 19.97265625,
+            "Total Deaths": 114241.82383468522,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 33.960205078125,
+            "longitude": -90.72119140625,
+            "Total Deaths": 113588.00102934356,
+            "Disaster type": "storm",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -14.33349609375,
+            "longitude": 106.1181640625,
+            "Total Deaths": 268.17298776674863,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -33.89990234375,
+            "longitude": 153.5322265625,
+            "Total Deaths": 787.6206133342762,
+            "Disaster type": "storm",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -29.73388671875,
+            "longitude": 135.05908203125,
+            "Total Deaths": 1070.2524941172082,
+            "Disaster type": "storm",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 26.088623046875,
+            "longitude": 102.92919921875,
+            "Total Deaths": 35.65696814957612,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tornado",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 28.644775390625,
+            "longitude": 100.8876953125,
+            "Total Deaths": 113591.81149273727,
+            "Disaster type": "storm",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 22.97265625,
+            "longitude": -84.13525390625,
+            "Total Deaths": 113438.3794982085,
+            "Disaster type": "storm",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 30.689697265625,
+            "longitude": -84.17578125,
+            "Total Deaths": 67268.96943790872,
+            "Disaster type": "storm",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 35.98828125,
+            "longitude": -83.81103515625,
+            "Total Deaths": 45122.15477477032,
+            "Disaster type": "storm",
+            "Disaster subtype": "Blizzard/Winter storm",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -0.03369140625,
+            "longitude": 18.2275390625,
+            "Total Deaths": 67362.49772809107,
+            "Disaster type": "storm",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 36.63818359375,
+            "longitude": -90.21337890625,
+            "Total Deaths": 78.99552379218191,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tornado",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 50.636474609375,
+            "longitude": 57.44140625,
+            "Total Deaths": 29147.64563467222,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tornado",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 47.781005859375,
+            "longitude": 4.366455078125,
+            "Total Deaths": 150027.520912033,
+            "Disaster type": "storm",
+            "Disaster subtype": "Extra-tropical storm",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 46.7841796875,
+            "longitude": 26.1015625,
+            "Total Deaths": 45122.15477477032,
+            "Disaster type": "storm",
+            "Disaster subtype": "Blizzard/Winter storm",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 25.0517578125,
+            "longitude": 103.46923828125,
+            "Total Deaths": 125355.36369625524,
+            "Disaster type": "storm",
+            "Disaster subtype": "Hail",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -15.595703125,
+            "longitude": 191.7490234375,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tsunami",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 35.7138671875,
+            "longitude": 106.23583984375,
+            "Total Deaths": 45122.15477477032,
+            "Disaster type": "storm",
+            "Disaster subtype": "Blizzard/Winter storm",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -36.474365234375,
+            "longitude": 169.1416015625,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tsunami",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -40.583251953125,
+            "longitude": 129.923828125,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tsunami",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -16.053466796875,
+            "longitude": 25.1904296875,
+            "Total Deaths": 122.05387075404701,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tornado",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 1.4072265625,
+            "longitude": 27.6630859375,
+            "Total Deaths": 113468.52190904964,
+            "Disaster type": "storm",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 3.149169921875,
+            "longitude": 10.2158203125,
+            "Total Deaths": 114012.50050805685,
+            "Disaster type": "storm",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -19.02001953125,
+            "longitude": 29.708251953125,
+            "Total Deaths": 39160.15628250519,
+            "Disaster type": "storm",
+            "Disaster subtype": "Hail",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 47.433837890625,
+            "longitude": 20.324951171875,
+            "Total Deaths": 124782.67834761167,
+            "Disaster type": "storm",
+            "Disaster subtype": "Hail",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 34.749755859375,
+            "longitude": -88.41552734375,
+            "Total Deaths": 113847.0392948857,
+            "Disaster type": "storm",
+            "Disaster subtype": "Hail",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 38.04833984375,
+            "longitude": 51.090087890625,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -5.41357421875,
+            "longitude": 72.197265625,
+            "Total Deaths": 618.7714398825408,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -28.03466796875,
+            "longitude": 149.05419921875,
+            "Total Deaths": 1162.081771984072,
+            "Disaster type": "storm",
+            "Disaster subtype": "Hail",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -33.034912109375,
+            "longitude": 146.50341796875,
+            "Total Deaths": 514.5031751272611,
+            "Disaster type": "storm",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -47.25537109375,
+            "longitude": 10.5498046875,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tsunami",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 13.60581636428833,
+            "longitude": -89.00190353393555,
+            "Total Deaths": 758.2821211565212,
+            "Disaster type": "storm",
+            "Disaster subtype": "Storm surge",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -38.828125,
+            "longitude": 163.08251953125,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tornado",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -21.380859375,
+            "longitude": 146.3251953125,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 51.704345703125,
+            "longitude": 134.130859375,
+            "Total Deaths": 6690.367488824468,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -30.48291015625,
+            "longitude": 28.4033203125,
+            "Total Deaths": 44998.49810877241,
+            "Disaster type": "storm",
+            "Disaster subtype": "Blizzard/Winter storm",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 32.3983154296875,
+            "longitude": 51.22320556640625,
+            "Total Deaths": 120778.66284356793,
+            "Disaster type": "storm",
+            "Disaster subtype": "Sand/Dust storm",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 32.0068359375,
+            "longitude": -91.41455078125,
+            "Total Deaths": 150027.520912033,
+            "Disaster type": "storm",
+            "Disaster subtype": "Extra-tropical storm",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -9.431884765625,
+            "longitude": -22.3603515625,
+            "Total Deaths": 618.7714398825408,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 28.786376953125,
+            "longitude": -85.5576171875,
+            "Total Deaths": 39888.403468033655,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 4.46661376953125,
+            "longitude": 234.935302734375,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Volcanic activity (General)",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -20.468528747558594,
+            "longitude": 192.14572143554688,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Volcanic activity (General)",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 18.724365234375,
+            "longitude": 117.5361328125,
+            "Total Deaths": 6482.34323303384,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 25.0625,
+            "longitude": 90.61669921875,
+            "Total Deaths": 12.58976712450657,
+            "Disaster type": "storm",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 29.578369140625,
+            "longitude": -97.70654296875,
+            "Total Deaths": 1830.3426741251112,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 57.08203125,
+            "longitude": 51.40771484375,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 46.68115234375,
+            "longitude": 16.14599609375,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 22.78369140625,
+            "longitude": -83.4482421875,
+            "Total Deaths": 829.0791041240382,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -16.22216796875,
+            "longitude": 46.765625,
+            "Total Deaths": 108.49436693142462,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 31.478515625,
+            "longitude": 99.9267578125,
+            "Total Deaths": 7186.409973417957,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 48.08740234375,
+            "longitude": 9.30322265625,
+            "Total Deaths": 3.416656536590473,
+            "Disaster type": "storm",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 27.93115234375,
+            "longitude": 93.9013671875,
+            "Total Deaths": 30.881205256430174,
+            "Disaster type": "storm",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 47.96923828125,
+            "longitude": 8.52294921875,
+            "Total Deaths": 3.416656536590473,
+            "Disaster type": "storm",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 53.27388572692871,
+            "longitude": 17.745368003845215,
+            "Total Deaths": 90.37529272060078,
+            "Disaster type": "storm",
+            "Disaster subtype": "Derecho",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 20.169189453125,
+            "longitude": -175.13671875,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -27.18695068359375,
+            "longitude": 73.498779296875,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Volcanic activity (General)",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 56.704833984375,
+            "longitude": -24.833984375,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 2.718505859375,
+            "longitude": 19.97265625,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 33.960205078125,
+            "longitude": -90.72119140625,
+            "Total Deaths": 3.416656536590473,
+            "Disaster type": "storm",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -14.33349609375,
+            "longitude": 106.1181640625,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -33.89990234375,
+            "longitude": 153.5322265625,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -29.73388671875,
+            "longitude": 135.05908203125,
+            "Total Deaths": 748.2759415002304,
+            "Disaster type": "storm",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 26.088623046875,
+            "longitude": 102.92919921875,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tornado",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 28.644775390625,
+            "longitude": 100.8876953125,
+            "Total Deaths": 30.881205256430174,
+            "Disaster type": "storm",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 22.97265625,
+            "longitude": -84.13525390625,
+            "Total Deaths": 17.243291684927126,
+            "Disaster type": "storm",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 30.689697265625,
+            "longitude": -84.17578125,
+            "Total Deaths": 32.62831135190206,
+            "Disaster type": "storm",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 35.98828125,
+            "longitude": -83.81103515625,
+            "Total Deaths": 5.867849116887642,
+            "Disaster type": "storm",
+            "Disaster subtype": "Blizzard/Winter storm",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -0.03369140625,
+            "longitude": 18.2275390625,
+            "Total Deaths": 60.09286007174179,
+            "Disaster type": "storm",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 36.63818359375,
+            "longitude": -90.21337890625,
+            "Total Deaths": 31.081705047045812,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tornado",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 50.636474609375,
+            "longitude": 57.44140625,
+            "Total Deaths": 31.081705047045812,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tornado",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 47.781005859375,
+            "longitude": 4.366455078125,
+            "Total Deaths": 2.951208003473786,
+            "Disaster type": "storm",
+            "Disaster subtype": "Extra-tropical storm",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 46.7841796875,
+            "longitude": 26.1015625,
+            "Total Deaths": 5.867849116887642,
+            "Disaster type": "storm",
+            "Disaster subtype": "Blizzard/Winter storm",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 25.0517578125,
+            "longitude": 103.46923828125,
+            "Total Deaths": 143.36422515190716,
+            "Disaster type": "storm",
+            "Disaster subtype": "Hail",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -15.595703125,
+            "longitude": 191.7490234375,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tsunami",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 35.7138671875,
+            "longitude": 106.23583984375,
+            "Total Deaths": 133.80834781243666,
+            "Disaster type": "storm",
+            "Disaster subtype": "Blizzard/Winter storm",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -36.474365234375,
+            "longitude": 169.1416015625,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tsunami",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -40.583251953125,
+            "longitude": 129.923828125,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tsunami",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -16.053466796875,
+            "longitude": 25.1904296875,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tornado",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 1.4072265625,
+            "longitude": 27.6630859375,
+            "Total Deaths": 30.881205256430174,
+            "Disaster type": "storm",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 3.149169921875,
+            "longitude": 10.2158203125,
+            "Total Deaths": 17.243291684927126,
+            "Disaster type": "storm",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -19.02001953125,
+            "longitude": 29.708251953125,
+            "Total Deaths": 150.0125343968808,
+            "Disaster type": "storm",
+            "Disaster subtype": "Hail",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 47.433837890625,
+            "longitude": 20.324951171875,
+            "Total Deaths": 100.59462794743294,
+            "Disaster type": "storm",
+            "Disaster subtype": "Hail",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 34.749755859375,
+            "longitude": -88.41552734375,
+            "Total Deaths": 27.944243048549364,
+            "Disaster type": "storm",
+            "Disaster subtype": "Hail",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 38.04833984375,
+            "longitude": 51.090087890625,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -5.41357421875,
+            "longitude": 72.197265625,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -28.03466796875,
+            "longitude": 149.05419921875,
+            "Total Deaths": 143.36422515190716,
+            "Disaster type": "storm",
+            "Disaster subtype": "Hail",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -33.034912109375,
+            "longitude": 146.50341796875,
+            "Total Deaths": 585.7620804099872,
+            "Disaster type": "storm",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -47.25537109375,
+            "longitude": 10.5498046875,
+            "Total Deaths": 400.6295596207963,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tsunami",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 13.60581636428833,
+            "longitude": -89.00190353393555,
+            "Total Deaths": 88.37691522897757,
+            "Disaster type": "storm",
+            "Disaster subtype": "Storm surge",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -38.828125,
+            "longitude": 163.08251953125,
+            "Total Deaths": 32.983526174363696,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tornado",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -21.380859375,
+            "longitude": 146.3251953125,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 51.704345703125,
+            "longitude": 134.130859375,
+            "Total Deaths": 71.10329586515131,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -30.48291015625,
+            "longitude": 28.4033203125,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Blizzard/Winter storm",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 32.3983154296875,
+            "longitude": 51.22320556640625,
+            "Total Deaths": 177.52521124894014,
+            "Disaster type": "storm",
+            "Disaster subtype": "Sand/Dust storm",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 32.0068359375,
+            "longitude": -91.41455078125,
+            "Total Deaths": 2.951208003473786,
+            "Disaster type": "storm",
+            "Disaster subtype": "Extra-tropical storm",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -9.431884765625,
+            "longitude": -22.3603515625,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 28.786376953125,
+            "longitude": -85.5576171875,
+            "Total Deaths": 5403.997037346792,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 4.46661376953125,
+            "longitude": 234.935302734375,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Volcanic activity (General)",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -20.468528747558594,
+            "longitude": 192.14572143554688,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Volcanic activity (General)",
+            "Appeal": "No"
+        }
+    ],
+    "1": [
+        {
+            "latitude": 17.7177734375,
+            "longitude": 130.05908203125,
+            "Total Deaths": 1112.496243083362,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 24.3173828125,
+            "longitude": 107.49267578125,
+            "Total Deaths": 4376.08694550177,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 6.8974609375,
+            "longitude": -84.14990234375,
+            "Total Deaths": 814.4682654005671,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 44.1708984375,
+            "longitude": 27.52294921875,
+            "Total Deaths": 1564.9009338247745,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 41.251953125,
+            "longitude": 18.341796875,
+            "Total Deaths": 5211.794417935948,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 4.15234375,
+            "longitude": -62.63330078125,
+            "Total Deaths": 1222.380488435524,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -3.9365234375,
+            "longitude": 59.68896484375,
+            "Total Deaths": 586.9473294940788,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 25.611328125,
+            "longitude": 88.73291015625,
+            "Total Deaths": 7343.698641678532,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 42.05859375,
+            "longitude": 11.347412109375,
+            "Total Deaths": 120866.16499593727,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 25.8271484375,
+            "longitude": 104.28466796875,
+            "Total Deaths": 2970.497037032474,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 41.529296875,
+            "longitude": 6.34716796875,
+            "Total Deaths": 113225.55624811044,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 49.63584193587303,
+            "longitude": 16.53228150308132,
+            "Total Deaths": 165147.31131545987,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Derecho",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 0.7958984375,
+            "longitude": -136.61181640625,
+            "Total Deaths": 1681.770894195702,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -23.25732421875,
+            "longitude": 78.34793090820312,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Volcanic activity (General)",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 46.73046875,
+            "longitude": -11.9091796875,
+            "Total Deaths": 914.9514512233794,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 12.5751953125,
+            "longitude": 17.35400390625,
+            "Total Deaths": 10491.451737742107,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 16.0986328125,
+            "longitude": -72.51513671875,
+            "Total Deaths": 113196.6727112545,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -16.3193359375,
+            "longitude": 147.949951171875,
+            "Total Deaths": 537.8550616892628,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -33.78515625,
+            "longitude": 192.602294921875,
+            "Total Deaths": 7687.099135803911,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -30.48828125,
+            "longitude": 168.548583984375,
+            "Total Deaths": 368.4963191256762,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 9.01953125,
+            "longitude": 95.86474609375,
+            "Total Deaths": 251.2901475960524,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tornado",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 26.568359375,
+            "longitude": 113.88916015625,
+            "Total Deaths": 8763.62725634473,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 7.25390625,
+            "longitude": -62.123046875,
+            "Total Deaths": 114192.19028678325,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 13.263671875,
+            "longitude": -60.2001953125,
+            "Total Deaths": 125612.20193030422,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 10.91796875,
+            "longitude": -88.9599609375,
+            "Total Deaths": 45952.48563664604,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Blizzard/Winter storm",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 11.1962890625,
+            "longitude": 35.783203125,
+            "Total Deaths": 10496.88275067932,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 2.701171875,
+            "longitude": -87.78955078125,
+            "Total Deaths": 294.3323974757276,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tornado",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 29.07421875,
+            "longitude": 35.3310546875,
+            "Total Deaths": 396.68651139991846,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tornado",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 43.3056640625,
+            "longitude": -27.02197265625,
+            "Total Deaths": 164870.59619432644,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Extra-tropical storm",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 33.9814453125,
+            "longitude": 1.59228515625,
+            "Total Deaths": 45861.36902222707,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Blizzard/Winter storm",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 16.3515625,
+            "longitude": 103.599609375,
+            "Total Deaths": 6477.721382227051,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Hail",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 12.283203125,
+            "longitude": 100.888671875,
+            "Total Deaths": 58064.962641132035,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tsunami",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 26.8037109375,
+            "longitude": 93.916015625,
+            "Total Deaths": 2584.646588341875,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Blizzard/Winter storm",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -9.603515625,
+            "longitude": 110.91064453125,
+            "Total Deaths": 457.38524559398013,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tsunami",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -2.50634765625,
+            "longitude": 52.217041015625,
+            "Total Deaths": 637.5711723169528,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tsunami",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -19.2060546875,
+            "longitude": 17.99365234375,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tornado",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 10.8115234375,
+            "longitude": 38.93115234375,
+            "Total Deaths": 9086.860385286851,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 12.0009765625,
+            "longitude": 26.0357666015625,
+            "Total Deaths": 8956.484438878006,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -17.7216796875,
+            "longitude": 31.19775390625,
+            "Total Deaths": 1655.5762132217585,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Hail",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 35.4462890625,
+            "longitude": 14.08056640625,
+            "Total Deaths": 126755.20161265624,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Hail",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 14.9345703125,
+            "longitude": -78.19189453125,
+            "Total Deaths": 1721.781407161403,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Hail",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 32.59375,
+            "longitude": 77.9599609375,
+            "Total Deaths": 739.3461808528422,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -10.7822265625,
+            "longitude": 123.114990234375,
+            "Total Deaths": 758.062163434733,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -33.43994140625,
+            "longitude": 164.1357421875,
+            "Total Deaths": 1334.3803404201296,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Hail",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -33.9208984375,
+            "longitude": 178.276611328125,
+            "Total Deaths": 3084.0158905347553,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -31.9560546875,
+            "longitude": -71.84423828125,
+            "Total Deaths": 876.8195751275678,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tsunami",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 12.67103922367096,
+            "longitude": -82.91988998651505,
+            "Total Deaths": 1830.766920464397,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Storm surge",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -51.9052734375,
+            "longitude": 180.87841796875,
+            "Total Deaths": 1033.1360819416473,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tornado",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -22.3701171875,
+            "longitude": 160.00927734375,
+            "Total Deaths": 146.87000757844302,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 44.8525390625,
+            "longitude": 125.380859375,
+            "Total Deaths": 2262.186736661417,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -24.787109375,
+            "longitude": 16.2236328125,
+            "Total Deaths": 1303.126641343799,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Blizzard/Winter storm",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 34.76904296875,
+            "longitude": 37.2449951171875,
+            "Total Deaths": 11877.278626203082,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Sand/Dust storm",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 17.1416015625,
+            "longitude": -111.20458984375,
+            "Total Deaths": 149493.59607380666,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Extra-tropical storm",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -3.4599609375,
+            "longitude": 4.488037109375,
+            "Total Deaths": 739.3461808528422,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 6.828125,
+            "longitude": -73.07470703125,
+            "Total Deaths": 2506.3564934731776,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 11.0439453125,
+            "longitude": 241.55422973632812,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Volcanic activity (General)",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -16.06488037109375,
+            "longitude": 203.23207092285156,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Volcanic activity (General)",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 18.74609375,
+            "longitude": 117.6748046875,
+            "Total Deaths": 893.7386251856263,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 25.0322265625,
+            "longitude": 90.6318359375,
+            "Total Deaths": 67345.54999692789,
+            "Disaster type": "storm",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 29.5263671875,
+            "longitude": -97.84130859375,
+            "Total Deaths": 149615.73961435465,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 57.1298828125,
+            "longitude": 51.37353515625,
+            "Total Deaths": 149187.40438388058,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 46.68359375,
+            "longitude": 16.21826171875,
+            "Total Deaths": 67276.48397585287,
+            "Disaster type": "storm",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 22.7744140625,
+            "longitude": -83.40673828125,
+            "Total Deaths": 156.8091774395773,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -16.275390625,
+            "longitude": 46.95947265625,
+            "Total Deaths": 356.4277587565464,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 31.513671875,
+            "longitude": 99.92041015625,
+            "Total Deaths": 151387.73881129894,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 48.1259765625,
+            "longitude": 9.2255859375,
+            "Total Deaths": 119842.49034019289,
+            "Disaster type": "storm",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 27.8623046875,
+            "longitude": 93.8056640625,
+            "Total Deaths": 113639.78200136122,
+            "Disaster type": "storm",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 47.982421875,
+            "longitude": 8.48095703125,
+            "Total Deaths": 113605.29445765074,
+            "Disaster type": "storm",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 53.27382779121399,
+            "longitude": 17.745360888540745,
+            "Total Deaths": 149280.42128970727,
+            "Disaster type": "storm",
+            "Disaster subtype": "Derecho",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 20.185546875,
+            "longitude": -175.100830078125,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -27.187744140625,
+            "longitude": 73.50079345703125,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Volcanic activity (General)",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 56.7470703125,
+            "longitude": -24.837646484375,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 2.7734375,
+            "longitude": 19.87451171875,
+            "Total Deaths": 114241.82383468522,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 33.884765625,
+            "longitude": -90.69287109375,
+            "Total Deaths": 113588.00102934356,
+            "Disaster type": "storm",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -14.3916015625,
+            "longitude": 106.0933837890625,
+            "Total Deaths": 268.17298776674863,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -33.921875,
+            "longitude": 153.501953125,
+            "Total Deaths": 787.6206133342762,
+            "Disaster type": "storm",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -29.779296875,
+            "longitude": 135.04124450683594,
+            "Total Deaths": 1070.2524941172082,
+            "Disaster type": "storm",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 26.0830078125,
+            "longitude": 102.89404296875,
+            "Total Deaths": 35.65696814957612,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tornado",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 28.712890625,
+            "longitude": 101.0037841796875,
+            "Total Deaths": 113591.81149273727,
+            "Disaster type": "storm",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 22.916015625,
+            "longitude": -84.1119384765625,
+            "Total Deaths": 113438.3794982085,
+            "Disaster type": "storm",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 30.607421875,
+            "longitude": -84.17431640625,
+            "Total Deaths": 67268.96943790872,
+            "Disaster type": "storm",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 35.939453125,
+            "longitude": -83.82666015625,
+            "Total Deaths": 45122.15477477032,
+            "Disaster type": "storm",
+            "Disaster subtype": "Blizzard/Winter storm",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -0.0400390625,
+            "longitude": 18.34375,
+            "Total Deaths": 67362.49772809107,
+            "Disaster type": "storm",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 36.681640625,
+            "longitude": -90.18115234375,
+            "Total Deaths": 78.99552379218191,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tornado",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 50.6953125,
+            "longitude": 57.4580078125,
+            "Total Deaths": 29147.64563467222,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tornado",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 47.7744140625,
+            "longitude": 4.34375,
+            "Total Deaths": 150027.520912033,
+            "Disaster type": "storm",
+            "Disaster subtype": "Extra-tropical storm",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 46.689453125,
+            "longitude": 26.1201171875,
+            "Total Deaths": 45122.15477477032,
+            "Disaster type": "storm",
+            "Disaster subtype": "Blizzard/Winter storm",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 25.0517578125,
+            "longitude": 103.43896484375,
+            "Total Deaths": 125355.36369625524,
+            "Disaster type": "storm",
+            "Disaster subtype": "Hail",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -15.6826171875,
+            "longitude": 191.81689453125,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tsunami",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 35.783203125,
+            "longitude": 106.11962890625,
+            "Total Deaths": 45122.15477477032,
+            "Disaster type": "storm",
+            "Disaster subtype": "Blizzard/Winter storm",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -36.482421875,
+            "longitude": 169.282470703125,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tsunami",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -40.53515625,
+            "longitude": 129.953125,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tsunami",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -16.0927734375,
+            "longitude": 24.975341796875,
+            "Total Deaths": 122.05387075404701,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tornado",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 1.451171875,
+            "longitude": 27.534423828125,
+            "Total Deaths": 113468.52190904964,
+            "Disaster type": "storm",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 3.1435546875,
+            "longitude": 10.2509765625,
+            "Total Deaths": 114012.50050805685,
+            "Disaster type": "storm",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -18.96875,
+            "longitude": 29.6962890625,
+            "Total Deaths": 39160.15628250519,
+            "Disaster type": "storm",
+            "Disaster subtype": "Hail",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 47.4267578125,
+            "longitude": 20.32666015625,
+            "Total Deaths": 124782.67834761167,
+            "Disaster type": "storm",
+            "Disaster subtype": "Hail",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 34.7275390625,
+            "longitude": -88.396484375,
+            "Total Deaths": 113847.0392948857,
+            "Disaster type": "storm",
+            "Disaster subtype": "Hail",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 38.0224609375,
+            "longitude": 51.109375,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -5.4140625,
+            "longitude": 72.139404296875,
+            "Total Deaths": 618.7714398825408,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -28.01953125,
+            "longitude": 149.0341796875,
+            "Total Deaths": 1162.081771984072,
+            "Disaster type": "storm",
+            "Disaster subtype": "Hail",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -33.0166015625,
+            "longitude": 146.383056640625,
+            "Total Deaths": 514.5031751272611,
+            "Disaster type": "storm",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -47.3046875,
+            "longitude": 10.45263671875,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tsunami",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 13.605835437774658,
+            "longitude": -89.00190138816833,
+            "Total Deaths": 758.2821211565212,
+            "Disaster type": "storm",
+            "Disaster subtype": "Storm surge",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -38.8134765625,
+            "longitude": 163.1746826171875,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tornado",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -21.3681640625,
+            "longitude": 146.32763671875,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 51.6953125,
+            "longitude": 134.0673828125,
+            "Total Deaths": 6690.367488824468,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -30.498046875,
+            "longitude": 28.6044921875,
+            "Total Deaths": 44998.49810877241,
+            "Disaster type": "storm",
+            "Disaster subtype": "Blizzard/Winter storm",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 32.385986328125,
+            "longitude": 51.23291015625,
+            "Total Deaths": 120778.66284356793,
+            "Disaster type": "storm",
+            "Disaster subtype": "Sand/Dust storm",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 31.9365234375,
+            "longitude": -91.373046875,
+            "Total Deaths": 150027.520912033,
+            "Disaster type": "storm",
+            "Disaster subtype": "Extra-tropical storm",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -9.4296875,
+            "longitude": -22.396240234375,
+            "Total Deaths": 618.7714398825408,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 28.724609375,
+            "longitude": -85.478515625,
+            "Total Deaths": 39888.403468033655,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 4.4580078125,
+            "longitude": 234.93231201171875,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Volcanic activity (General)",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -20.4700927734375,
+            "longitude": 192.1376953125,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Volcanic activity (General)",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 17.7177734375,
+            "longitude": 130.05908203125,
+            "Total Deaths": 34.27688257065162,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 24.3173828125,
+            "longitude": 107.49267578125,
+            "Total Deaths": 48.03597975340439,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 6.8974609375,
+            "longitude": -84.14990234375,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 44.1708984375,
+            "longitude": 27.52294921875,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 41.251953125,
+            "longitude": 18.341796875,
+            "Total Deaths": 4215.262056830501,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 4.15234375,
+            "longitude": -62.63330078125,
+            "Total Deaths": 1553.7939889422921,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -3.9365234375,
+            "longitude": 59.68896484375,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 25.611328125,
+            "longitude": 88.73291015625,
+            "Total Deaths": 3241.4312351787266,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 42.05859375,
+            "longitude": 11.347412109375,
+            "Total Deaths": 957.1018076835168,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 25.8271484375,
+            "longitude": 104.28466796875,
+            "Total Deaths": 66.32741788532798,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 41.529296875,
+            "longitude": 6.34716796875,
+            "Total Deaths": 3836.5875438405533,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 49.63584193587303,
+            "longitude": 16.53228150308132,
+            "Total Deaths": 5706.24445807103,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Derecho",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 0.7958984375,
+            "longitude": -136.61181640625,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -23.25732421875,
+            "longitude": 78.34793090820312,
+            "Total Deaths": 431.13542958231085,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Volcanic activity (General)",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 46.73046875,
+            "longitude": -11.9091796875,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 12.5751953125,
+            "longitude": 17.35400390625,
+            "Total Deaths": 1454.507995694828,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 16.0986328125,
+            "longitude": -72.51513671875,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -16.3193359375,
+            "longitude": 147.949951171875,
+            "Total Deaths": 596.6646904034865,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -33.78515625,
+            "longitude": 192.602294921875,
+            "Total Deaths": 43.00989417751818,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -30.48828125,
+            "longitude": 168.548583984375,
+            "Total Deaths": 1206.2281571947192,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 9.01953125,
+            "longitude": 95.86474609375,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tornado",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 26.568359375,
+            "longitude": 113.88916015625,
+            "Total Deaths": 66.32741788532798,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 7.25390625,
+            "longitude": -62.123046875,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 13.263671875,
+            "longitude": -60.2001953125,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 10.91796875,
+            "longitude": -88.9599609375,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Blizzard/Winter storm",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 11.1962890625,
+            "longitude": 35.783203125,
+            "Total Deaths": 102.49903312215771,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 2.701171875,
+            "longitude": -87.78955078125,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tornado",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 29.07421875,
+            "longitude": 35.3310546875,
+            "Total Deaths": 31.683644913245704,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tornado",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 43.3056640625,
+            "longitude": -27.02197265625,
+            "Total Deaths": 1077.6087588344074,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Extra-tropical storm",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 33.9814453125,
+            "longitude": 1.59228515625,
+            "Total Deaths": 4196.946170134773,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Blizzard/Winter storm",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 16.3515625,
+            "longitude": 103.599609375,
+            "Total Deaths": 63.20498551443581,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Hail",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 12.283203125,
+            "longitude": 100.888671875,
+            "Total Deaths": 4339.428629181144,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tsunami",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 26.8037109375,
+            "longitude": 93.916015625,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Blizzard/Winter storm",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -9.603515625,
+            "longitude": 110.91064453125,
+            "Total Deaths": 431.45068908111074,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tsunami",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -2.50634765625,
+            "longitude": 52.217041015625,
+            "Total Deaths": 1462.995890579059,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tsunami",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -19.2060546875,
+            "longitude": 17.99365234375,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tornado",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 10.8115234375,
+            "longitude": 38.93115234375,
+            "Total Deaths": 30.881205256430174,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 12.0009765625,
+            "longitude": 26.0357666015625,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -17.7216796875,
+            "longitude": 31.19775390625,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Hail",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 35.4462890625,
+            "longitude": 14.08056640625,
+            "Total Deaths": 6913.948692828917,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Hail",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 14.9345703125,
+            "longitude": -78.19189453125,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Hail",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 32.59375,
+            "longitude": 77.9599609375,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -10.7822265625,
+            "longitude": 123.114990234375,
+            "Total Deaths": 935.6777230297862,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -33.43994140625,
+            "longitude": 164.1357421875,
+            "Total Deaths": 1097.5871094743502,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Hail",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -33.9208984375,
+            "longitude": 178.276611328125,
+            "Total Deaths": 265.9911720361267,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -31.9560546875,
+            "longitude": -71.84423828125,
+            "Total Deaths": 194.26042804634562,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tsunami",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 12.67103922367096,
+            "longitude": -82.91988998651505,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Storm surge",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -51.9052734375,
+            "longitude": 180.87841796875,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tornado",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -22.3701171875,
+            "longitude": 160.00927734375,
+            "Total Deaths": 401.78390759589496,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 44.8525390625,
+            "longitude": 125.380859375,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -24.787109375,
+            "longitude": 16.2236328125,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Blizzard/Winter storm",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 34.76904296875,
+            "longitude": 37.2449951171875,
+            "Total Deaths": 957.7156110915614,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Sand/Dust storm",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 17.1416015625,
+            "longitude": -111.20458984375,
+            "Total Deaths": 5658.166897781978,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Extra-tropical storm",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -3.4599609375,
+            "longitude": 4.488037109375,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 6.828125,
+            "longitude": -73.07470703125,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 11.0439453125,
+            "longitude": 241.55422973632812,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Volcanic activity (General)",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -16.06488037109375,
+            "longitude": 203.23207092285156,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Volcanic activity (General)",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 18.74609375,
+            "longitude": 117.6748046875,
+            "Total Deaths": 6482.34323303384,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 25.0322265625,
+            "longitude": 90.6318359375,
+            "Total Deaths": 12.58976712450657,
+            "Disaster type": "storm",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 29.5263671875,
+            "longitude": -97.84130859375,
+            "Total Deaths": 1830.3426741251112,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 57.1298828125,
+            "longitude": 51.37353515625,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 46.68359375,
+            "longitude": 16.21826171875,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 22.7744140625,
+            "longitude": -83.40673828125,
+            "Total Deaths": 829.0791041240382,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -16.275390625,
+            "longitude": 46.95947265625,
+            "Total Deaths": 108.49436693142462,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 31.513671875,
+            "longitude": 99.92041015625,
+            "Total Deaths": 7186.409973417957,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 48.1259765625,
+            "longitude": 9.2255859375,
+            "Total Deaths": 3.416656536590473,
+            "Disaster type": "storm",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 27.8623046875,
+            "longitude": 93.8056640625,
+            "Total Deaths": 30.881205256430174,
+            "Disaster type": "storm",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 47.982421875,
+            "longitude": 8.48095703125,
+            "Total Deaths": 3.416656536590473,
+            "Disaster type": "storm",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 53.27382779121399,
+            "longitude": 17.745360888540745,
+            "Total Deaths": 90.37529272060078,
+            "Disaster type": "storm",
+            "Disaster subtype": "Derecho",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 20.185546875,
+            "longitude": -175.100830078125,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -27.187744140625,
+            "longitude": 73.50079345703125,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Volcanic activity (General)",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 56.7470703125,
+            "longitude": -24.837646484375,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 2.7734375,
+            "longitude": 19.87451171875,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 33.884765625,
+            "longitude": -90.69287109375,
+            "Total Deaths": 3.416656536590473,
+            "Disaster type": "storm",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -14.3916015625,
+            "longitude": 106.0933837890625,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -33.921875,
+            "longitude": 153.501953125,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -29.779296875,
+            "longitude": 135.04124450683594,
+            "Total Deaths": 748.2759415002304,
+            "Disaster type": "storm",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 26.0830078125,
+            "longitude": 102.89404296875,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tornado",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 28.712890625,
+            "longitude": 101.0037841796875,
+            "Total Deaths": 30.881205256430174,
+            "Disaster type": "storm",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 22.916015625,
+            "longitude": -84.1119384765625,
+            "Total Deaths": 17.243291684927126,
+            "Disaster type": "storm",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 30.607421875,
+            "longitude": -84.17431640625,
+            "Total Deaths": 32.62831135190206,
+            "Disaster type": "storm",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 35.939453125,
+            "longitude": -83.82666015625,
+            "Total Deaths": 5.867849116887642,
+            "Disaster type": "storm",
+            "Disaster subtype": "Blizzard/Winter storm",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -0.0400390625,
+            "longitude": 18.34375,
+            "Total Deaths": 60.09286007174179,
+            "Disaster type": "storm",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 36.681640625,
+            "longitude": -90.18115234375,
+            "Total Deaths": 31.081705047045812,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tornado",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 50.6953125,
+            "longitude": 57.4580078125,
+            "Total Deaths": 31.081705047045812,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tornado",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 47.7744140625,
+            "longitude": 4.34375,
+            "Total Deaths": 2.951208003473786,
+            "Disaster type": "storm",
+            "Disaster subtype": "Extra-tropical storm",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 46.689453125,
+            "longitude": 26.1201171875,
+            "Total Deaths": 5.867849116887642,
+            "Disaster type": "storm",
+            "Disaster subtype": "Blizzard/Winter storm",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 25.0517578125,
+            "longitude": 103.43896484375,
+            "Total Deaths": 143.36422515190716,
+            "Disaster type": "storm",
+            "Disaster subtype": "Hail",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -15.6826171875,
+            "longitude": 191.81689453125,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tsunami",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 35.783203125,
+            "longitude": 106.11962890625,
+            "Total Deaths": 133.80834781243666,
+            "Disaster type": "storm",
+            "Disaster subtype": "Blizzard/Winter storm",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -36.482421875,
+            "longitude": 169.282470703125,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tsunami",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -40.53515625,
+            "longitude": 129.953125,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tsunami",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -16.0927734375,
+            "longitude": 24.975341796875,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tornado",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 1.451171875,
+            "longitude": 27.534423828125,
+            "Total Deaths": 30.881205256430174,
+            "Disaster type": "storm",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 3.1435546875,
+            "longitude": 10.2509765625,
+            "Total Deaths": 17.243291684927126,
+            "Disaster type": "storm",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -18.96875,
+            "longitude": 29.6962890625,
+            "Total Deaths": 150.0125343968808,
+            "Disaster type": "storm",
+            "Disaster subtype": "Hail",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 47.4267578125,
+            "longitude": 20.32666015625,
+            "Total Deaths": 100.59462794743294,
+            "Disaster type": "storm",
+            "Disaster subtype": "Hail",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 34.7275390625,
+            "longitude": -88.396484375,
+            "Total Deaths": 27.944243048549364,
+            "Disaster type": "storm",
+            "Disaster subtype": "Hail",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 38.0224609375,
+            "longitude": 51.109375,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -5.4140625,
+            "longitude": 72.139404296875,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -28.01953125,
+            "longitude": 149.0341796875,
+            "Total Deaths": 143.36422515190716,
+            "Disaster type": "storm",
+            "Disaster subtype": "Hail",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -33.0166015625,
+            "longitude": 146.383056640625,
+            "Total Deaths": 585.7620804099872,
+            "Disaster type": "storm",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -47.3046875,
+            "longitude": 10.45263671875,
+            "Total Deaths": 400.6295596207963,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tsunami",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 13.605835437774658,
+            "longitude": -89.00190138816833,
+            "Total Deaths": 88.37691522897757,
+            "Disaster type": "storm",
+            "Disaster subtype": "Storm surge",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -38.8134765625,
+            "longitude": 163.1746826171875,
+            "Total Deaths": 32.983526174363696,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tornado",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -21.3681640625,
+            "longitude": 146.32763671875,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 51.6953125,
+            "longitude": 134.0673828125,
+            "Total Deaths": 71.10329586515131,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -30.498046875,
+            "longitude": 28.6044921875,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Blizzard/Winter storm",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 32.385986328125,
+            "longitude": 51.23291015625,
+            "Total Deaths": 177.52521124894014,
+            "Disaster type": "storm",
+            "Disaster subtype": "Sand/Dust storm",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 31.9365234375,
+            "longitude": -91.373046875,
+            "Total Deaths": 2.951208003473786,
+            "Disaster type": "storm",
+            "Disaster subtype": "Extra-tropical storm",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -9.4296875,
+            "longitude": -22.396240234375,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 28.724609375,
+            "longitude": -85.478515625,
+            "Total Deaths": 5403.997037346792,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 4.4580078125,
+            "longitude": 234.93231201171875,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Volcanic activity (General)",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -20.4700927734375,
+            "longitude": 192.1376953125,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Volcanic activity (General)",
+            "Appeal": "No"
+        }
+    ],
+    "2": [
+        {
+            "latitude": 17.7177734375,
+            "longitude": 130.05908203125,
+            "Total Deaths": 1112.496243083362,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 24.3173828125,
+            "longitude": 107.49267578125,
+            "Total Deaths": 4376.08694550177,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 6.8974609375,
+            "longitude": -84.14990234375,
+            "Total Deaths": 814.4682654005671,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 44.1708984375,
+            "longitude": 27.52294921875,
+            "Total Deaths": 1564.9009338247745,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 41.251953125,
+            "longitude": 18.341796875,
+            "Total Deaths": 5211.794417935948,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 4.15234375,
+            "longitude": -62.63330078125,
+            "Total Deaths": 1222.380488435524,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -3.9365234375,
+            "longitude": 59.68896484375,
+            "Total Deaths": 586.9473294940788,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 25.611328125,
+            "longitude": 88.73291015625,
+            "Total Deaths": 7343.698641678532,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 42.05859375,
+            "longitude": 11.347412109375,
+            "Total Deaths": 120866.16499593727,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 25.8271484375,
+            "longitude": 104.28466796875,
+            "Total Deaths": 2970.497037032474,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 41.529296875,
+            "longitude": 6.34716796875,
+            "Total Deaths": 113225.55624811044,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 49.63584193587303,
+            "longitude": 16.53228150308132,
+            "Total Deaths": 165147.31131545987,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Derecho",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 0.7958984375,
+            "longitude": -136.61181640625,
+            "Total Deaths": 1681.770894195702,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -23.25732421875,
+            "longitude": 78.34793090820312,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Volcanic activity (General)",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 46.73046875,
+            "longitude": -11.9091796875,
+            "Total Deaths": 914.9514512233794,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 12.5751953125,
+            "longitude": 17.35400390625,
+            "Total Deaths": 10491.451737742107,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 16.0986328125,
+            "longitude": -72.51513671875,
+            "Total Deaths": 113196.6727112545,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -16.3193359375,
+            "longitude": 147.949951171875,
+            "Total Deaths": 537.8550616892628,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -33.78515625,
+            "longitude": 192.602294921875,
+            "Total Deaths": 7687.099135803911,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -30.48828125,
+            "longitude": 168.548583984375,
+            "Total Deaths": 368.4963191256762,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 9.01953125,
+            "longitude": 95.86474609375,
+            "Total Deaths": 251.2901475960524,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tornado",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 26.568359375,
+            "longitude": 113.88916015625,
+            "Total Deaths": 8763.62725634473,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 7.25390625,
+            "longitude": -62.123046875,
+            "Total Deaths": 114192.19028678325,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 13.263671875,
+            "longitude": -60.2001953125,
+            "Total Deaths": 125612.20193030422,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 10.91796875,
+            "longitude": -88.9599609375,
+            "Total Deaths": 45952.48563664604,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Blizzard/Winter storm",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 11.1962890625,
+            "longitude": 35.783203125,
+            "Total Deaths": 10496.88275067932,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 2.701171875,
+            "longitude": -87.78955078125,
+            "Total Deaths": 294.3323974757276,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tornado",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 29.07421875,
+            "longitude": 35.3310546875,
+            "Total Deaths": 396.68651139991846,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tornado",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 43.3056640625,
+            "longitude": -27.02197265625,
+            "Total Deaths": 164870.59619432644,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Extra-tropical storm",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 33.9814453125,
+            "longitude": 1.59228515625,
+            "Total Deaths": 45861.36902222707,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Blizzard/Winter storm",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 16.3515625,
+            "longitude": 103.599609375,
+            "Total Deaths": 6477.721382227051,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Hail",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 12.283203125,
+            "longitude": 100.888671875,
+            "Total Deaths": 58064.962641132035,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tsunami",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 26.8037109375,
+            "longitude": 93.916015625,
+            "Total Deaths": 2584.646588341875,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Blizzard/Winter storm",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -9.603515625,
+            "longitude": 110.91064453125,
+            "Total Deaths": 457.38524559398013,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tsunami",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -2.50634765625,
+            "longitude": 52.217041015625,
+            "Total Deaths": 637.5711723169528,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tsunami",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -19.2060546875,
+            "longitude": 17.99365234375,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tornado",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 10.8115234375,
+            "longitude": 38.93115234375,
+            "Total Deaths": 9086.860385286851,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 12.0009765625,
+            "longitude": 26.0357666015625,
+            "Total Deaths": 8956.484438878006,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -17.7216796875,
+            "longitude": 31.19775390625,
+            "Total Deaths": 1655.5762132217585,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Hail",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 35.4462890625,
+            "longitude": 14.08056640625,
+            "Total Deaths": 126755.20161265624,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Hail",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 14.9345703125,
+            "longitude": -78.19189453125,
+            "Total Deaths": 1721.781407161403,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Hail",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 32.59375,
+            "longitude": 77.9599609375,
+            "Total Deaths": 739.3461808528422,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -10.7822265625,
+            "longitude": 123.114990234375,
+            "Total Deaths": 758.062163434733,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -33.43994140625,
+            "longitude": 164.1357421875,
+            "Total Deaths": 1334.3803404201296,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Hail",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -33.9208984375,
+            "longitude": 178.276611328125,
+            "Total Deaths": 3084.0158905347553,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -31.9560546875,
+            "longitude": -71.84423828125,
+            "Total Deaths": 876.8195751275678,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tsunami",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 12.67103922367096,
+            "longitude": -82.91988998651505,
+            "Total Deaths": 1830.766920464397,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Storm surge",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -51.9052734375,
+            "longitude": 180.87841796875,
+            "Total Deaths": 1033.1360819416473,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tornado",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -22.3701171875,
+            "longitude": 160.00927734375,
+            "Total Deaths": 146.87000757844302,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 44.8525390625,
+            "longitude": 125.380859375,
+            "Total Deaths": 2262.186736661417,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -24.787109375,
+            "longitude": 16.2236328125,
+            "Total Deaths": 1303.126641343799,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Blizzard/Winter storm",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 34.76904296875,
+            "longitude": 37.2449951171875,
+            "Total Deaths": 11877.278626203082,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Sand/Dust storm",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 17.1416015625,
+            "longitude": -111.20458984375,
+            "Total Deaths": 149493.59607380666,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Extra-tropical storm",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -3.4599609375,
+            "longitude": 4.488037109375,
+            "Total Deaths": 739.3461808528422,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 6.828125,
+            "longitude": -73.07470703125,
+            "Total Deaths": 2506.3564934731776,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 11.0439453125,
+            "longitude": 241.55422973632812,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Volcanic activity (General)",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -16.06488037109375,
+            "longitude": 203.23207092285156,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Volcanic activity (General)",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 18.74609375,
+            "longitude": 117.6748046875,
+            "Total Deaths": 893.7386251856263,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 25.0322265625,
+            "longitude": 90.6318359375,
+            "Total Deaths": 67345.54999692789,
+            "Disaster type": "storm",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 29.5263671875,
+            "longitude": -97.84130859375,
+            "Total Deaths": 149615.73961435465,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 57.1298828125,
+            "longitude": 51.37353515625,
+            "Total Deaths": 149187.40438388058,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 46.68359375,
+            "longitude": 16.21826171875,
+            "Total Deaths": 67276.48397585287,
+            "Disaster type": "storm",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 22.7744140625,
+            "longitude": -83.40673828125,
+            "Total Deaths": 156.8091774395773,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -16.275390625,
+            "longitude": 46.95947265625,
+            "Total Deaths": 356.4277587565464,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 31.513671875,
+            "longitude": 99.92041015625,
+            "Total Deaths": 151387.73881129894,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 48.1259765625,
+            "longitude": 9.2255859375,
+            "Total Deaths": 119842.49034019289,
+            "Disaster type": "storm",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 27.8623046875,
+            "longitude": 93.8056640625,
+            "Total Deaths": 113639.78200136122,
+            "Disaster type": "storm",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 47.982421875,
+            "longitude": 8.48095703125,
+            "Total Deaths": 113605.29445765074,
+            "Disaster type": "storm",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 53.27382779121399,
+            "longitude": 17.745360888540745,
+            "Total Deaths": 149280.42128970727,
+            "Disaster type": "storm",
+            "Disaster subtype": "Derecho",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 20.185546875,
+            "longitude": -175.100830078125,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -27.187744140625,
+            "longitude": 73.50079345703125,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Volcanic activity (General)",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 56.7470703125,
+            "longitude": -24.837646484375,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 2.7734375,
+            "longitude": 19.87451171875,
+            "Total Deaths": 114241.82383468522,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 33.884765625,
+            "longitude": -90.69287109375,
+            "Total Deaths": 113588.00102934356,
+            "Disaster type": "storm",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -14.3916015625,
+            "longitude": 106.0933837890625,
+            "Total Deaths": 268.17298776674863,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -33.921875,
+            "longitude": 153.501953125,
+            "Total Deaths": 787.6206133342762,
+            "Disaster type": "storm",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -29.779296875,
+            "longitude": 135.04124450683594,
+            "Total Deaths": 1070.2524941172082,
+            "Disaster type": "storm",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 26.0830078125,
+            "longitude": 102.89404296875,
+            "Total Deaths": 35.65696814957612,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tornado",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 28.712890625,
+            "longitude": 101.0037841796875,
+            "Total Deaths": 113591.81149273727,
+            "Disaster type": "storm",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 22.916015625,
+            "longitude": -84.1119384765625,
+            "Total Deaths": 113438.3794982085,
+            "Disaster type": "storm",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 30.607421875,
+            "longitude": -84.17431640625,
+            "Total Deaths": 67268.96943790872,
+            "Disaster type": "storm",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 35.939453125,
+            "longitude": -83.82666015625,
+            "Total Deaths": 45122.15477477032,
+            "Disaster type": "storm",
+            "Disaster subtype": "Blizzard/Winter storm",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -0.0400390625,
+            "longitude": 18.34375,
+            "Total Deaths": 67362.49772809107,
+            "Disaster type": "storm",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 36.681640625,
+            "longitude": -90.18115234375,
+            "Total Deaths": 78.99552379218191,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tornado",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 50.6953125,
+            "longitude": 57.4580078125,
+            "Total Deaths": 29147.64563467222,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tornado",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 47.7744140625,
+            "longitude": 4.34375,
+            "Total Deaths": 150027.520912033,
+            "Disaster type": "storm",
+            "Disaster subtype": "Extra-tropical storm",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 46.689453125,
+            "longitude": 26.1201171875,
+            "Total Deaths": 45122.15477477032,
+            "Disaster type": "storm",
+            "Disaster subtype": "Blizzard/Winter storm",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 25.0517578125,
+            "longitude": 103.43896484375,
+            "Total Deaths": 125355.36369625524,
+            "Disaster type": "storm",
+            "Disaster subtype": "Hail",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -15.6826171875,
+            "longitude": 191.81689453125,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tsunami",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 35.783203125,
+            "longitude": 106.11962890625,
+            "Total Deaths": 45122.15477477032,
+            "Disaster type": "storm",
+            "Disaster subtype": "Blizzard/Winter storm",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -36.482421875,
+            "longitude": 169.282470703125,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tsunami",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -40.53515625,
+            "longitude": 129.953125,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tsunami",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -16.0927734375,
+            "longitude": 24.975341796875,
+            "Total Deaths": 122.05387075404701,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tornado",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 1.451171875,
+            "longitude": 27.534423828125,
+            "Total Deaths": 113468.52190904964,
+            "Disaster type": "storm",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 3.1435546875,
+            "longitude": 10.2509765625,
+            "Total Deaths": 114012.50050805685,
+            "Disaster type": "storm",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -18.96875,
+            "longitude": 29.6962890625,
+            "Total Deaths": 39160.15628250519,
+            "Disaster type": "storm",
+            "Disaster subtype": "Hail",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 47.4267578125,
+            "longitude": 20.32666015625,
+            "Total Deaths": 124782.67834761167,
+            "Disaster type": "storm",
+            "Disaster subtype": "Hail",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 34.7275390625,
+            "longitude": -88.396484375,
+            "Total Deaths": 113847.0392948857,
+            "Disaster type": "storm",
+            "Disaster subtype": "Hail",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 38.0224609375,
+            "longitude": 51.109375,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -5.4140625,
+            "longitude": 72.139404296875,
+            "Total Deaths": 618.7714398825408,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -28.01953125,
+            "longitude": 149.0341796875,
+            "Total Deaths": 1162.081771984072,
+            "Disaster type": "storm",
+            "Disaster subtype": "Hail",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -33.0166015625,
+            "longitude": 146.383056640625,
+            "Total Deaths": 514.5031751272611,
+            "Disaster type": "storm",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -47.3046875,
+            "longitude": 10.45263671875,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tsunami",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 13.605835437774658,
+            "longitude": -89.00190138816833,
+            "Total Deaths": 758.2821211565212,
+            "Disaster type": "storm",
+            "Disaster subtype": "Storm surge",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -38.8134765625,
+            "longitude": 163.1746826171875,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tornado",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -21.3681640625,
+            "longitude": 146.32763671875,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 51.6953125,
+            "longitude": 134.0673828125,
+            "Total Deaths": 6690.367488824468,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -30.498046875,
+            "longitude": 28.6044921875,
+            "Total Deaths": 44998.49810877241,
+            "Disaster type": "storm",
+            "Disaster subtype": "Blizzard/Winter storm",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 32.385986328125,
+            "longitude": 51.23291015625,
+            "Total Deaths": 120778.66284356793,
+            "Disaster type": "storm",
+            "Disaster subtype": "Sand/Dust storm",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 31.9365234375,
+            "longitude": -91.373046875,
+            "Total Deaths": 150027.520912033,
+            "Disaster type": "storm",
+            "Disaster subtype": "Extra-tropical storm",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -9.4296875,
+            "longitude": -22.396240234375,
+            "Total Deaths": 618.7714398825408,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 28.724609375,
+            "longitude": -85.478515625,
+            "Total Deaths": 39888.403468033655,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 4.4580078125,
+            "longitude": 234.93231201171875,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Volcanic activity (General)",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": -20.4700927734375,
+            "longitude": 192.1376953125,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Volcanic activity (General)",
+            "Appeal": "Yes"
+        },
+        {
+            "latitude": 17.7177734375,
+            "longitude": 130.05908203125,
+            "Total Deaths": 34.27688257065162,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 24.3173828125,
+            "longitude": 107.49267578125,
+            "Total Deaths": 48.03597975340439,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 6.8974609375,
+            "longitude": -84.14990234375,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 44.1708984375,
+            "longitude": 27.52294921875,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 41.251953125,
+            "longitude": 18.341796875,
+            "Total Deaths": 4215.262056830501,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 4.15234375,
+            "longitude": -62.63330078125,
+            "Total Deaths": 1553.7939889422921,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -3.9365234375,
+            "longitude": 59.68896484375,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 25.611328125,
+            "longitude": 88.73291015625,
+            "Total Deaths": 3241.4312351787266,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 42.05859375,
+            "longitude": 11.347412109375,
+            "Total Deaths": 957.1018076835168,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 25.8271484375,
+            "longitude": 104.28466796875,
+            "Total Deaths": 66.32741788532798,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 41.529296875,
+            "longitude": 6.34716796875,
+            "Total Deaths": 3836.5875438405533,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 49.63584193587303,
+            "longitude": 16.53228150308132,
+            "Total Deaths": 5706.24445807103,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Derecho",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 0.7958984375,
+            "longitude": -136.61181640625,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -23.25732421875,
+            "longitude": 78.34793090820312,
+            "Total Deaths": 431.13542958231085,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Volcanic activity (General)",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 46.73046875,
+            "longitude": -11.9091796875,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 12.5751953125,
+            "longitude": 17.35400390625,
+            "Total Deaths": 1454.507995694828,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 16.0986328125,
+            "longitude": -72.51513671875,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -16.3193359375,
+            "longitude": 147.949951171875,
+            "Total Deaths": 596.6646904034865,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -33.78515625,
+            "longitude": 192.602294921875,
+            "Total Deaths": 43.00989417751818,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -30.48828125,
+            "longitude": 168.548583984375,
+            "Total Deaths": 1206.2281571947192,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 9.01953125,
+            "longitude": 95.86474609375,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tornado",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 26.568359375,
+            "longitude": 113.88916015625,
+            "Total Deaths": 66.32741788532798,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 7.25390625,
+            "longitude": -62.123046875,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 13.263671875,
+            "longitude": -60.2001953125,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 10.91796875,
+            "longitude": -88.9599609375,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Blizzard/Winter storm",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 11.1962890625,
+            "longitude": 35.783203125,
+            "Total Deaths": 102.49903312215771,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 2.701171875,
+            "longitude": -87.78955078125,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tornado",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 29.07421875,
+            "longitude": 35.3310546875,
+            "Total Deaths": 31.683644913245704,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tornado",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 43.3056640625,
+            "longitude": -27.02197265625,
+            "Total Deaths": 1077.6087588344074,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Extra-tropical storm",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 33.9814453125,
+            "longitude": 1.59228515625,
+            "Total Deaths": 4196.946170134773,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Blizzard/Winter storm",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 16.3515625,
+            "longitude": 103.599609375,
+            "Total Deaths": 63.20498551443581,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Hail",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 12.283203125,
+            "longitude": 100.888671875,
+            "Total Deaths": 4339.428629181144,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tsunami",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 26.8037109375,
+            "longitude": 93.916015625,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Blizzard/Winter storm",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -9.603515625,
+            "longitude": 110.91064453125,
+            "Total Deaths": 431.45068908111074,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tsunami",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -2.50634765625,
+            "longitude": 52.217041015625,
+            "Total Deaths": 1462.995890579059,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tsunami",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -19.2060546875,
+            "longitude": 17.99365234375,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tornado",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 10.8115234375,
+            "longitude": 38.93115234375,
+            "Total Deaths": 30.881205256430174,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 12.0009765625,
+            "longitude": 26.0357666015625,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -17.7216796875,
+            "longitude": 31.19775390625,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Hail",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 35.4462890625,
+            "longitude": 14.08056640625,
+            "Total Deaths": 6913.948692828917,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Hail",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 14.9345703125,
+            "longitude": -78.19189453125,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Hail",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 32.59375,
+            "longitude": 77.9599609375,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -10.7822265625,
+            "longitude": 123.114990234375,
+            "Total Deaths": 935.6777230297862,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -33.43994140625,
+            "longitude": 164.1357421875,
+            "Total Deaths": 1097.5871094743502,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Hail",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -33.9208984375,
+            "longitude": 178.276611328125,
+            "Total Deaths": 265.9911720361267,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -31.9560546875,
+            "longitude": -71.84423828125,
+            "Total Deaths": 194.26042804634562,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tsunami",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 12.67103922367096,
+            "longitude": -82.91988998651505,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Storm surge",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -51.9052734375,
+            "longitude": 180.87841796875,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tornado",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -22.3701171875,
+            "longitude": 160.00927734375,
+            "Total Deaths": 401.78390759589496,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 44.8525390625,
+            "longitude": 125.380859375,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -24.787109375,
+            "longitude": 16.2236328125,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Blizzard/Winter storm",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 34.76904296875,
+            "longitude": 37.2449951171875,
+            "Total Deaths": 957.7156110915614,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Sand/Dust storm",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 17.1416015625,
+            "longitude": -111.20458984375,
+            "Total Deaths": 5658.166897781978,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Extra-tropical storm",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -3.4599609375,
+            "longitude": 4.488037109375,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 6.828125,
+            "longitude": -73.07470703125,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 11.0439453125,
+            "longitude": 241.55422973632812,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Volcanic activity (General)",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -16.06488037109375,
+            "longitude": 203.23207092285156,
+            "Total Deaths": 0.0,
+            "Disaster type": "earthquake",
+            "Disaster subtype": "Volcanic activity (General)",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 18.74609375,
+            "longitude": 117.6748046875,
+            "Total Deaths": 6482.34323303384,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 25.0322265625,
+            "longitude": 90.6318359375,
+            "Total Deaths": 12.58976712450657,
+            "Disaster type": "storm",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 29.5263671875,
+            "longitude": -97.84130859375,
+            "Total Deaths": 1830.3426741251112,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 57.1298828125,
+            "longitude": 51.37353515625,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 46.68359375,
+            "longitude": 16.21826171875,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 22.7744140625,
+            "longitude": -83.40673828125,
+            "Total Deaths": 829.0791041240382,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -16.275390625,
+            "longitude": 46.95947265625,
+            "Total Deaths": 108.49436693142462,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 31.513671875,
+            "longitude": 99.92041015625,
+            "Total Deaths": 7186.409973417957,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 48.1259765625,
+            "longitude": 9.2255859375,
+            "Total Deaths": 3.416656536590473,
+            "Disaster type": "storm",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 27.8623046875,
+            "longitude": 93.8056640625,
+            "Total Deaths": 30.881205256430174,
+            "Disaster type": "storm",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 47.982421875,
+            "longitude": 8.48095703125,
+            "Total Deaths": 3.416656536590473,
+            "Disaster type": "storm",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 53.27382779121399,
+            "longitude": 17.745360888540745,
+            "Total Deaths": 90.37529272060078,
+            "Disaster type": "storm",
+            "Disaster subtype": "Derecho",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 20.185546875,
+            "longitude": -175.100830078125,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -27.187744140625,
+            "longitude": 73.50079345703125,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Volcanic activity (General)",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 56.7470703125,
+            "longitude": -24.837646484375,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 2.7734375,
+            "longitude": 19.87451171875,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 33.884765625,
+            "longitude": -90.69287109375,
+            "Total Deaths": 3.416656536590473,
+            "Disaster type": "storm",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -14.3916015625,
+            "longitude": 106.0933837890625,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -33.921875,
+            "longitude": 153.501953125,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -29.779296875,
+            "longitude": 135.04124450683594,
+            "Total Deaths": 748.2759415002304,
+            "Disaster type": "storm",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 26.0830078125,
+            "longitude": 102.89404296875,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tornado",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 28.712890625,
+            "longitude": 101.0037841796875,
+            "Total Deaths": 30.881205256430174,
+            "Disaster type": "storm",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 22.916015625,
+            "longitude": -84.1119384765625,
+            "Total Deaths": 17.243291684927126,
+            "Disaster type": "storm",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 30.607421875,
+            "longitude": -84.17431640625,
+            "Total Deaths": 32.62831135190206,
+            "Disaster type": "storm",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 35.939453125,
+            "longitude": -83.82666015625,
+            "Total Deaths": 5.867849116887642,
+            "Disaster type": "storm",
+            "Disaster subtype": "Blizzard/Winter storm",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -0.0400390625,
+            "longitude": 18.34375,
+            "Total Deaths": 60.09286007174179,
+            "Disaster type": "storm",
+            "Disaster subtype": "Storm (General)",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 36.681640625,
+            "longitude": -90.18115234375,
+            "Total Deaths": 31.081705047045812,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tornado",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 50.6953125,
+            "longitude": 57.4580078125,
+            "Total Deaths": 31.081705047045812,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tornado",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 47.7744140625,
+            "longitude": 4.34375,
+            "Total Deaths": 2.951208003473786,
+            "Disaster type": "storm",
+            "Disaster subtype": "Extra-tropical storm",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 46.689453125,
+            "longitude": 26.1201171875,
+            "Total Deaths": 5.867849116887642,
+            "Disaster type": "storm",
+            "Disaster subtype": "Blizzard/Winter storm",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 25.0517578125,
+            "longitude": 103.43896484375,
+            "Total Deaths": 143.36422515190716,
+            "Disaster type": "storm",
+            "Disaster subtype": "Hail",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -15.6826171875,
+            "longitude": 191.81689453125,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tsunami",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 35.783203125,
+            "longitude": 106.11962890625,
+            "Total Deaths": 133.80834781243666,
+            "Disaster type": "storm",
+            "Disaster subtype": "Blizzard/Winter storm",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -36.482421875,
+            "longitude": 169.282470703125,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tsunami",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -40.53515625,
+            "longitude": 129.953125,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tsunami",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -16.0927734375,
+            "longitude": 24.975341796875,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tornado",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 1.451171875,
+            "longitude": 27.534423828125,
+            "Total Deaths": 30.881205256430174,
+            "Disaster type": "storm",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 3.1435546875,
+            "longitude": 10.2509765625,
+            "Total Deaths": 17.243291684927126,
+            "Disaster type": "storm",
+            "Disaster subtype": "Severe weather",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -18.96875,
+            "longitude": 29.6962890625,
+            "Total Deaths": 150.0125343968808,
+            "Disaster type": "storm",
+            "Disaster subtype": "Hail",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 47.4267578125,
+            "longitude": 20.32666015625,
+            "Total Deaths": 100.59462794743294,
+            "Disaster type": "storm",
+            "Disaster subtype": "Hail",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 34.7275390625,
+            "longitude": -88.396484375,
+            "Total Deaths": 27.944243048549364,
+            "Disaster type": "storm",
+            "Disaster subtype": "Hail",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 38.0224609375,
+            "longitude": 51.109375,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -5.4140625,
+            "longitude": 72.139404296875,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -28.01953125,
+            "longitude": 149.0341796875,
+            "Total Deaths": 143.36422515190716,
+            "Disaster type": "storm",
+            "Disaster subtype": "Hail",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -33.0166015625,
+            "longitude": 146.383056640625,
+            "Total Deaths": 585.7620804099872,
+            "Disaster type": "storm",
+            "Disaster subtype": "Lightning/Thunderstorms",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -47.3046875,
+            "longitude": 10.45263671875,
+            "Total Deaths": 400.6295596207963,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tsunami",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 13.605835437774658,
+            "longitude": -89.00190138816833,
+            "Total Deaths": 88.37691522897757,
+            "Disaster type": "storm",
+            "Disaster subtype": "Storm surge",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -38.8134765625,
+            "longitude": 163.1746826171875,
+            "Total Deaths": 32.983526174363696,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tornado",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -21.3681640625,
+            "longitude": 146.32763671875,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ground movement",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 51.6953125,
+            "longitude": 134.0673828125,
+            "Total Deaths": 71.10329586515131,
+            "Disaster type": "storm",
+            "Disaster subtype": "Tropical cyclone",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -30.498046875,
+            "longitude": 28.6044921875,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Blizzard/Winter storm",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 32.385986328125,
+            "longitude": 51.23291015625,
+            "Total Deaths": 177.52521124894014,
+            "Disaster type": "storm",
+            "Disaster subtype": "Sand/Dust storm",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 31.9365234375,
+            "longitude": -91.373046875,
+            "Total Deaths": 2.951208003473786,
+            "Disaster type": "storm",
+            "Disaster subtype": "Extra-tropical storm",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -9.4296875,
+            "longitude": -22.396240234375,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 28.724609375,
+            "longitude": -85.478515625,
+            "Total Deaths": 5403.997037346792,
+            "Disaster type": "storm",
+            "Disaster subtype": "Ash Fall",
+            "Appeal": "No"
+        },
+        {
+            "latitude": 4.4580078125,
+            "longitude": 234.93231201171875,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Volcanic activity (General)",
+            "Appeal": "No"
+        },
+        {
+            "latitude": -20.4700927734375,
+            "longitude": 192.1376953125,
+            "Total Deaths": 0.0,
+            "Disaster type": "storm",
+            "Disaster subtype": "Volcanic activity (General)",
+            "Appeal": "No"
+        }
+    ]
+}
