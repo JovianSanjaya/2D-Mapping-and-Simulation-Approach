@@ -207,7 +207,7 @@
                 <span class="text-white-50" >Slide to show the map</span>  <br>
                 <label for="year-slider" class="text-white-50">Select Year</label>
                 <input type="range" id="year-slider" min="{{ years[0] }}" max="{{ years[-1] }}" value="{{ initial_year }}" step="1">
-                <span id="year-label"></span>
+                <span class="text-white-50", id="year-label"></span>
             </div>
             <div id="map-container" >
                 <iframe id="map-frame" width="100%" height="800" srcdoc="{{ map_html|safe }}"></iframe>

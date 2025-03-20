@@ -40,17 +40,21 @@ window.addEventListener('DOMContentLoaded', event => {
 
 });
 
-document.getElementById("year-slider").addEventListener("input", function() {
-    var selectedYear = this.value;
+function updateMap(selectedYear) {
     document.getElementById("year-label").innerText = selectedYear;
     fetch('/api/update_map?year=' + selectedYear)
-      .then(response => response.text())
-      .then(data => {
+        .then(response => response.text())
+        .then(data => {
         document.getElementById("map-frame").srcdoc = data;
-      })
-      .catch(error => console.error('Error fetching map:', error));
-  });
+        })
+        .catch(error => console.error('Error fetching map:', error));
+}
 
+document.getElementById("year-slider").addEventListener("input", function() {
+    updateMap(this.value);
+});
 
-
- 
+window.addEventListener('DOMContentLoaded', function() {
+    var initialYear = document.getElementById("year-slider").value;
+    updateMap(initialYear);
+}); 

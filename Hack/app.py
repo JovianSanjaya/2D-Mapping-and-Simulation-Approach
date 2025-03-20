@@ -22,6 +22,7 @@ with open('./Prediction/data/disasters.json') as f:
     disaster_data = json.load(f)
 
 years = sorted([int(year) for year in disaster_data.keys()])
+marks = {year: str(year) for year in years}
 
 def generate_map(selected_year):
     m = folium.Map(location=[center_lat, center_lon], zoom_start=5)
