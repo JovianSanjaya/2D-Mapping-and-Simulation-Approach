@@ -681,9 +681,28 @@ progress {
    margin: 0 auto;
 }
 
-#year-slider{
-  margin-top: 20px;
+#year-slider {
+  width: 100%;
+  -webkit-appearance: none;
+  appearance: none;
+  background: linear-gradient(to right, #4facfe, #00f2fe);
+  height: 5px;
+  border-radius: 5px;
+  outline: none;
 }
+
+.tick-marks {
+  display: flex;
+  justify-content: space-between; /* Ensures ticks align with slider */
+  width: 100%; /* Matches the slider width */
+  margin-top: 5px;
+  font-size: 12px;
+  font-weight: bold;
+  color: white;
+  white-space: nowrap;
+}
+
+
 
 input[type="range"] { 
   width: 100%; 
