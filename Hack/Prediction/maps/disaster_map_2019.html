@@ -1,0 +1,2855 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_9f88b5fc111ec4807e7dd47b3ea224a9 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+    <script src="https://cdn.jsdelivr.net/gh/python-visualization/folium@main/folium/templates/leaflet_heat.min.js"></script>
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_9f88b5fc111ec4807e7dd47b3ea224a9" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_9f88b5fc111ec4807e7dd47b3ea224a9 = L.map(
+                "map_9f88b5fc111ec4807e7dd47b3ea224a9",
+                {
+                    center: [52.2127727104826, 4.398140143056524],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 5,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_aa4f87fc601bdf5b32846b00834538cb = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_aa4f87fc601bdf5b32846b00834538cb.addTo(map_9f88b5fc111ec4807e7dd47b3ea224a9);
+        
+    
+            var feature_group_52146c72f057b1723e29b8f7a76cae45 = L.featureGroup(
+                {
+}
+            );
+        
+    
+            var marker_b18a1171e700e6cd0c709756619f7bb2 = L.marker(
+                [18.7587890625, 117.71533203125],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_68bf3bbd768c6512a8afc68d97ef5b42 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_0dd12a210d683de0fe50101a0dc9908d = $(`<div id="html_0dd12a210d683de0fe50101a0dc9908d" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 1166.3319441894807<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Tropical cyclone<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_68bf3bbd768c6512a8afc68d97ef5b42.setContent(html_0dd12a210d683de0fe50101a0dc9908d);
+            
+        
+
+        marker_b18a1171e700e6cd0c709756619f7bb2.bindPopup(popup_68bf3bbd768c6512a8afc68d97ef5b42)
+        ;
+
+        
+    
+    
+            var marker_1c57217cf742c26535c3408bdc10d242 = L.marker(
+                [25.073486328125, 90.7109375],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_a52d94fdcc0a8c6a34823613f024b5a3 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_7504219ce1dd011a5a8e7b4ced7ba490 = $(`<div id="html_7504219ce1dd011a5a8e7b4ced7ba490" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 70959.4879749995<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Storm (General)<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_a52d94fdcc0a8c6a34823613f024b5a3.setContent(html_7504219ce1dd011a5a8e7b4ced7ba490);
+            
+        
+
+        marker_1c57217cf742c26535c3408bdc10d242.bindPopup(popup_a52d94fdcc0a8c6a34823613f024b5a3)
+        ;
+
+        
+    
+    
+            var marker_ef1e297f8ec294d1febfe799755a1e8c = L.marker(
+                [26.68115234375, -81.48388671875],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_dd86eec852c1317b6a673e954ae19717 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_f95d88941dcd8ba91aa3ba707fd8830b = $(`<div id="html_f95d88941dcd8ba91aa3ba707fd8830b" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 156317.92261181583<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Ground movement<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_dd86eec852c1317b6a673e954ae19717.setContent(html_f95d88941dcd8ba91aa3ba707fd8830b);
+            
+        
+
+        marker_ef1e297f8ec294d1febfe799755a1e8c.bindPopup(popup_dd86eec852c1317b6a673e954ae19717)
+        ;
+
+        
+    
+    
+            var marker_31bb791b57b88cdec09080a4d3a1fe31 = L.marker(
+                [53.93310546875, 65.06982421875],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_74c28eaad075e28cec17742ec9c4009c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d0e91889a9a6da0ea90264e6c0054c1e = $(`<div id="html_d0e91889a9a6da0ea90264e6c0054c1e" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 153719.05924401875<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Ground movement<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_74c28eaad075e28cec17742ec9c4009c.setContent(html_d0e91889a9a6da0ea90264e6c0054c1e);
+            
+        
+
+        marker_31bb791b57b88cdec09080a4d3a1fe31.bindPopup(popup_74c28eaad075e28cec17742ec9c4009c)
+        ;
+
+        
+    
+    
+            var marker_6860de138aa40972ecf26577c38ac202 = L.marker(
+                [46.707763671875, 16.33447265625],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_ce6e1172700650f181d4d8b57dbfb3b1 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_8a2912f0bb4c7dbfff416bd92b68dbb3 = $(`<div id="html_8a2912f0bb4c7dbfff416bd92b68dbb3" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 70922.34433301186<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Storm (General)<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_ce6e1172700650f181d4d8b57dbfb3b1.setContent(html_8a2912f0bb4c7dbfff416bd92b68dbb3);
+            
+        
+
+        marker_6860de138aa40972ecf26577c38ac202.bindPopup(popup_ce6e1172700650f181d4d8b57dbfb3b1)
+        ;
+
+        
+    
+    
+            var marker_c94b79c619c5417aa8346322455daf46 = L.marker(
+                [22.799072265625, -83.3291015625],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_a03ec3e8af49ef0451e4c7d703aadb6a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_67bb3da9a2ba6813b4d16bf28c966d92 = $(`<div id="html_67bb3da9a2ba6813b4d16bf28c966d92" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 170.822335553161<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Tropical cyclone<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_a03ec3e8af49ef0451e4c7d703aadb6a.setContent(html_67bb3da9a2ba6813b4d16bf28c966d92);
+            
+        
+
+        marker_c94b79c619c5417aa8346322455daf46.bindPopup(popup_a03ec3e8af49ef0451e4c7d703aadb6a)
+        ;
+
+        
+    
+    
+            var marker_4a60dd56a86bd7282003448959058c0d = L.marker(
+                [-16.205810546875, 46.99267578125],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_bd0999e8cd10fe52cdd71ac35c6b5fb8 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_bade594c59d2cbbe2f1973bc98031e9e = $(`<div id="html_bade594c59d2cbbe2f1973bc98031e9e" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 210.14643878453646<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Tropical cyclone<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_bd0999e8cd10fe52cdd71ac35c6b5fb8.setContent(html_bade594c59d2cbbe2f1973bc98031e9e);
+            
+        
+
+        marker_4a60dd56a86bd7282003448959058c0d.bindPopup(popup_bd0999e8cd10fe52cdd71ac35c6b5fb8)
+        ;
+
+        
+    
+    
+            var marker_2e6448fbf6aec8529e739ad281654eff = L.marker(
+                [28.96826171875, 110.7451171875],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_5f353171766980521a5d7f942dfbeb14 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_3720e49b76c257baee47f6fa5bd52390 = $(`<div id="html_3720e49b76c257baee47f6fa5bd52390" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 2851.334313246115<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Ground movement<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_5f353171766980521a5d7f942dfbeb14.setContent(html_3720e49b76c257baee47f6fa5bd52390);
+            
+        
+
+        marker_2e6448fbf6aec8529e739ad281654eff.bindPopup(popup_5f353171766980521a5d7f942dfbeb14)
+        ;
+
+        
+    
+    
+            var marker_7d636a570da6630104834dbc9335ea1b = L.marker(
+                [48.1192626953125, 9.431640625],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_95f6c26ddbdc74d1d3aa8c52dcb826f0 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_56ead06859c68e03024debd3b8a5f1b2 = $(`<div id="html_56ead06859c68e03024debd3b8a5f1b2" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 113830.86934509914<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Severe weather<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_95f6c26ddbdc74d1d3aa8c52dcb826f0.setContent(html_56ead06859c68e03024debd3b8a5f1b2);
+            
+        
+
+        marker_7d636a570da6630104834dbc9335ea1b.bindPopup(popup_95f6c26ddbdc74d1d3aa8c52dcb826f0)
+        ;
+
+        
+    
+    
+            var marker_616bdbd038905654922eedc32c075589 = L.marker(
+                [27.933837890625, 94.10400390625],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_2b8496f1194030e58301de6c33084f39 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c2fac14fcb909280f04e815e30981506 = $(`<div id="html_c2fac14fcb909280f04e815e30981506" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 70032.63910747273<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Lightning/Thunderstorms<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_2b8496f1194030e58301de6c33084f39.setContent(html_c2fac14fcb909280f04e815e30981506);
+            
+        
+
+        marker_616bdbd038905654922eedc32c075589.bindPopup(popup_2b8496f1194030e58301de6c33084f39)
+        ;
+
+        
+    
+    
+            var marker_e0896cfa63c9d465c79ada73c50b8e58 = L.marker(
+                [48.011962890625, 8.70458984375],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_5b7c53d28cd2f8bf347a0d3812f4c52a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_143f5d1eeb12b0ba99b2542024aa6f2a = $(`<div id="html_143f5d1eeb12b0ba99b2542024aa6f2a" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 70464.05063436381<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Lightning/Thunderstorms<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_5b7c53d28cd2f8bf347a0d3812f4c52a.setContent(html_143f5d1eeb12b0ba99b2542024aa6f2a);
+            
+        
+
+        marker_e0896cfa63c9d465c79ada73c50b8e58.bindPopup(popup_5b7c53d28cd2f8bf347a0d3812f4c52a)
+        ;
+
+        
+    
+    
+            var marker_d174a250b584244df521b736cec68333 = L.marker(
+                [53.27379834651947, 17.745344161987305],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_a577f885d31fd7fa2d10779ec29f77d0 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_992af519e95c1b88c773a3ad170c8bc7 = $(`<div id="html_992af519e95c1b88c773a3ad170c8bc7" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 152040.9130351272<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Derecho<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_a577f885d31fd7fa2d10779ec29f77d0.setContent(html_992af519e95c1b88c773a3ad170c8bc7);
+            
+        
+
+        marker_d174a250b584244df521b736cec68333.bindPopup(popup_a577f885d31fd7fa2d10779ec29f77d0)
+        ;
+
+        
+    
+    
+            var marker_d12799c92882981d5b4a3fa4586b75e5 = L.marker(
+                [13.2899169921875, -89.607421875],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_9a1668eeed23e3b1d44495137356b75a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_53f8013198d42ac87e8ddffecbf9ed36 = $(`<div id="html_53f8013198d42ac87e8ddffecbf9ed36" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 373.5579658623093<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Ash Fall<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_9a1668eeed23e3b1d44495137356b75a.setContent(html_53f8013198d42ac87e8ddffecbf9ed36);
+            
+        
+
+        marker_d12799c92882981d5b4a3fa4586b75e5.bindPopup(popup_9a1668eeed23e3b1d44495137356b75a)
+        ;
+
+        
+    
+    
+            var marker_d3003da2c37379878b91b0efe49e50c1 = L.marker(
+                [-0.46514892578125, -67.7034912109375],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_408bf62b06cdc7bb6cdde5ae6de85153 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ee2c25a63e208e2f84642006bde92e01 = $(`<div id="html_ee2c25a63e208e2f84642006bde92e01" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 0.0<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Volcanic activity (General)<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_408bf62b06cdc7bb6cdde5ae6de85153.setContent(html_ee2c25a63e208e2f84642006bde92e01);
+            
+        
+
+        marker_d3003da2c37379878b91b0efe49e50c1.bindPopup(popup_408bf62b06cdc7bb6cdde5ae6de85153)
+        ;
+
+        
+    
+    
+            var marker_b2f0d776e02d7c40bfa92075ce12bf90 = L.marker(
+                [49.5552978515625, 52.3037109375],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_c3ce1c051ca56296dc9ee1a7188aa40f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_665898944050f458d4f82d6c0844dd6f = $(`<div id="html_665898944050f458d4f82d6c0844dd6f" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 570.8519487014489<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Ash Fall<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_c3ce1c051ca56296dc9ee1a7188aa40f.setContent(html_665898944050f458d4f82d6c0844dd6f);
+            
+        
+
+        marker_b2f0d776e02d7c40bfa92075ce12bf90.bindPopup(popup_c3ce1c051ca56296dc9ee1a7188aa40f)
+        ;
+
+        
+    
+    
+            var marker_6a489e2815b7489a647a2ca20b6a4f90 = L.marker(
+                [0.07763671875, 33.525390625],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_32a4d1aa538f3cca89b04154da076aa4 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_86231f2ec14e3e4284cfcca12c74e104 = $(`<div id="html_86231f2ec14e3e4284cfcca12c74e104" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 1009.7501616461166<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Ground movement<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_32a4d1aa538f3cca89b04154da076aa4.setContent(html_86231f2ec14e3e4284cfcca12c74e104);
+            
+        
+
+        marker_6a489e2815b7489a647a2ca20b6a4f90.bindPopup(popup_32a4d1aa538f3cca89b04154da076aa4)
+        ;
+
+        
+    
+    
+            var marker_2547e7ce198c45025bc559b3196a1bf6 = L.marker(
+                [33.972900390625, -90.5380859375],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_e298e7380de99933aad5a4e288c75e9c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c547edec00a43943e9f6e63b4095db92 = $(`<div id="html_c547edec00a43943e9f6e63b4095db92" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 69263.14539487779<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Lightning/Thunderstorms<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_e298e7380de99933aad5a4e288c75e9c.setContent(html_c547edec00a43943e9f6e63b4095db92);
+            
+        
+
+        marker_2547e7ce198c45025bc559b3196a1bf6.bindPopup(popup_e298e7380de99933aad5a4e288c75e9c)
+        ;
+
+        
+    
+    
+            var marker_5096ca4bf11fec77ebbcfe4f8eaa02bf = L.marker(
+                [-14.380126953125, 106.2822265625],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_9b62aa07568c064eb14bffcb543979ba = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c39e6303c0ede6f64a125e8555b392a7 = $(`<div id="html_c39e6303c0ede6f64a125e8555b392a7" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 215.0537616571208<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Tropical cyclone<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_9b62aa07568c064eb14bffcb543979ba.setContent(html_c39e6303c0ede6f64a125e8555b392a7);
+            
+        
+
+        marker_5096ca4bf11fec77ebbcfe4f8eaa02bf.bindPopup(popup_9b62aa07568c064eb14bffcb543979ba)
+        ;
+
+        
+    
+    
+            var marker_9fa609c81bf2f99a13e782ad252b7504 = L.marker(
+                [-33.9229736328125, 153.708984375],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_20c66fc40aa0d8c47da646a1376e1339 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_133787873d453bbb217c432711d007e8 = $(`<div id="html_133787873d453bbb217c432711d007e8" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 8111.833603267665<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Storm (General)<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_20c66fc40aa0d8c47da646a1376e1339.setContent(html_133787873d453bbb217c432711d007e8);
+            
+        
+
+        marker_9fa609c81bf2f99a13e782ad252b7504.bindPopup(popup_20c66fc40aa0d8c47da646a1376e1339)
+        ;
+
+        
+    
+    
+            var marker_f8e8b34899f3a31de2ee883af61a73f9 = L.marker(
+                [-29.7943115234375, 135.2431640625],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_a1955f7287fba9e453bbe96ab921a180 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_4bdf057adff28ec947e4b704c452185f = $(`<div id="html_4bdf057adff28ec947e4b704c452185f" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 593.5789692521298<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Severe weather<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_a1955f7287fba9e453bbe96ab921a180.setContent(html_4bdf057adff28ec947e4b704c452185f);
+            
+        
+
+        marker_f8e8b34899f3a31de2ee883af61a73f9.bindPopup(popup_a1955f7287fba9e453bbe96ab921a180)
+        ;
+
+        
+    
+    
+            var marker_4d7c66efeffc4eee809aa0649b479d0d = L.marker(
+                [26.120849609375, 103.16845703125],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_9113a27fada47b96625d9abbb06ea706 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_6f6655203d88e799bb43ecd28bf26deb = $(`<div id="html_6f6655203d88e799bb43ecd28bf26deb" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 138.59851872834042<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Tornado<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_9113a27fada47b96625d9abbb06ea706.setContent(html_6f6655203d88e799bb43ecd28bf26deb);
+            
+        
+
+        marker_4d7c66efeffc4eee809aa0649b479d0d.bindPopup(popup_9113a27fada47b96625d9abbb06ea706)
+        ;
+
+        
+    
+    
+            var marker_c20dfcf819544e35dc62116e9214a660 = L.marker(
+                [28.64990234375, 101.025390625],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_af96efab9619d198a70ed2c10b04500c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_302ccdc1f1df4f7f6ad024c838cfef42 = $(`<div id="html_302ccdc1f1df4f7f6ad024c838cfef42" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 69380.26974424993<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Severe weather<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_af96efab9619d198a70ed2c10b04500c.setContent(html_302ccdc1f1df4f7f6ad024c838cfef42);
+            
+        
+
+        marker_c20dfcf819544e35dc62116e9214a660.bindPopup(popup_af96efab9619d198a70ed2c10b04500c)
+        ;
+
+        
+    
+    
+            var marker_5a2b005d3ae086df359a33c3f6b606b6 = L.marker(
+                [22.9671630859375, -83.9619140625],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_90e9c9d6bd4c2b222b84d99f7ee6ae85 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a049cfbf4857bed320eca59c180f97c4 = $(`<div id="html_a049cfbf4857bed320eca59c180f97c4" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 68971.64879998345<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Severe weather<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_90e9c9d6bd4c2b222b84d99f7ee6ae85.setContent(html_a049cfbf4857bed320eca59c180f97c4);
+            
+        
+
+        marker_5a2b005d3ae086df359a33c3f6b606b6.bindPopup(popup_90e9c9d6bd4c2b222b84d99f7ee6ae85)
+        ;
+
+        
+    
+    
+            var marker_83024b168440e62d267c930a757f8735 = L.marker(
+                [30.6123046875, -83.9716796875],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_bb178a6917c9baae1d6c0c8e5b246b12 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_882dc9c20a67e2ea475a11cd31967257 = $(`<div id="html_882dc9c20a67e2ea475a11cd31967257" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 70828.9842246233<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Storm (General)<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_bb178a6917c9baae1d6c0c8e5b246b12.setContent(html_882dc9c20a67e2ea475a11cd31967257);
+            
+        
+
+        marker_83024b168440e62d267c930a757f8735.bindPopup(popup_bb178a6917c9baae1d6c0c8e5b246b12)
+        ;
+
+        
+    
+    
+            var marker_f47a7eb9dae215af0774c18c9e0f02bc = L.marker(
+                [36.05517578125, -83.6318359375],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_48feea8c2548adc5bf82ae007d0ceca3 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_af33204caa6bf70deacbc4bf1e7dc540 = $(`<div id="html_af33204caa6bf70deacbc4bf1e7dc540" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 72476.32071955714<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Blizzard/Winter storm<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_48feea8c2548adc5bf82ae007d0ceca3.setContent(html_af33204caa6bf70deacbc4bf1e7dc540);
+            
+        
+
+        marker_f47a7eb9dae215af0774c18c9e0f02bc.bindPopup(popup_48feea8c2548adc5bf82ae007d0ceca3)
+        ;
+
+        
+    
+    
+            var marker_9a86476d6984f003e13edb7d0a3f6ee7 = L.marker(
+                [0.0118408203125, 18.4169921875],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_e30a113aff4730fa02d6edae59467272 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e05c848e996c9d8f28a9fc15fbc98b45 = $(`<div id="html_e05c848e996c9d8f28a9fc15fbc98b45" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 70870.87744306732<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Storm (General)<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_e30a113aff4730fa02d6edae59467272.setContent(html_e05c848e996c9d8f28a9fc15fbc98b45);
+            
+        
+
+        marker_9a86476d6984f003e13edb7d0a3f6ee7.bindPopup(popup_e30a113aff4730fa02d6edae59467272)
+        ;
+
+        
+    
+    
+            var marker_bfaa9a549b37dc9df22b87851703986c = L.marker(
+                [36.634765625, -90.05322265625],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_9950b8cc7079b79ff49b99bbbb9af388 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d575f03f816ddfb8f52045d758ba6d15 = $(`<div id="html_d575f03f816ddfb8f52045d758ba6d15" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 0.0<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Tornado<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_9950b8cc7079b79ff49b99bbbb9af388.setContent(html_d575f03f816ddfb8f52045d758ba6d15);
+            
+        
+
+        marker_bfaa9a549b37dc9df22b87851703986c.bindPopup(popup_9950b8cc7079b79ff49b99bbbb9af388)
+        ;
+
+        
+    
+    
+            var marker_22072a2d1c7f839c061f440e4aded18b = L.marker(
+                [50.689208984375, 57.52392578125],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_533e04672a24e06c5258c142da9260fa = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_b345b93066b6309e1161cbd98f7e97aa = $(`<div id="html_b345b93066b6309e1161cbd98f7e97aa" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 43238.43948549217<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Tornado<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_533e04672a24e06c5258c142da9260fa.setContent(html_b345b93066b6309e1161cbd98f7e97aa);
+            
+        
+
+        marker_22072a2d1c7f839c061f440e4aded18b.bindPopup(popup_533e04672a24e06c5258c142da9260fa)
+        ;
+
+        
+    
+    
+            var marker_e0abd78ea0237c49fe33761a222c2326 = L.marker(
+                [47.777587890625, 4.48388671875],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_d292c7135f0d56a9e04e88a8db73bbb3 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_59df3bd75364a142dd08285fa0f64c62 = $(`<div id="html_59df3bd75364a142dd08285fa0f64c62" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 153775.64624235727<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Extra-tropical storm<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_d292c7135f0d56a9e04e88a8db73bbb3.setContent(html_59df3bd75364a142dd08285fa0f64c62);
+            
+        
+
+        marker_e0abd78ea0237c49fe33761a222c2326.bindPopup(popup_d292c7135f0d56a9e04e88a8db73bbb3)
+        ;
+
+        
+    
+    
+            var marker_c65c130fb49962024cd6f6d9494b798b = L.marker(
+                [46.7646484375, 26.31787109375],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_cb52f3475ce05c254b0ee9094c3c8fe6 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_6ff6af3c27c57a6d6f2e78b51b2aa37a = $(`<div id="html_6ff6af3c27c57a6d6f2e78b51b2aa37a" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 72856.8514010615<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Blizzard/Winter storm<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_cb52f3475ce05c254b0ee9094c3c8fe6.setContent(html_6ff6af3c27c57a6d6f2e78b51b2aa37a);
+            
+        
+
+        marker_c65c130fb49962024cd6f6d9494b798b.bindPopup(popup_cb52f3475ce05c254b0ee9094c3c8fe6)
+        ;
+
+        
+    
+    
+            var marker_47fcf110b51f1e19662a6c66b3aa90d8 = L.marker(
+                [25.09033203125, 103.6025390625],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_a7af71dbc38a4505cd07608afe1c8c4c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_dd837dcec872e883e1cd72465f578510 = $(`<div id="html_dd837dcec872e883e1cd72465f578510" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 114126.44345762828<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Hail<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_a7af71dbc38a4505cd07608afe1c8c4c.setContent(html_dd837dcec872e883e1cd72465f578510);
+            
+        
+
+        marker_47fcf110b51f1e19662a6c66b3aa90d8.bindPopup(popup_a7af71dbc38a4505cd07608afe1c8c4c)
+        ;
+
+        
+    
+    
+            var marker_092ac5ca097753c5c4a2f4d652f2d6cd = L.marker(
+                [10.502197265625, 100.58349609375],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_05796e3b3060dcdeb28935f1ec5dffbe = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_287e9e39480c9409175714ab840a384c = $(`<div id="html_287e9e39480c9409175714ab840a384c" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 2140.637877664901<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Tsunami<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_05796e3b3060dcdeb28935f1ec5dffbe.setContent(html_287e9e39480c9409175714ab840a384c);
+            
+        
+
+        marker_092ac5ca097753c5c4a2f4d652f2d6cd.bindPopup(popup_05796e3b3060dcdeb28935f1ec5dffbe)
+        ;
+
+        
+    
+    
+            var marker_c6b04ae35488169551d235fd6ba5642f = L.marker(
+                [35.744384765625, 106.392578125],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_417e272e745eab2da6832247e422c063 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_14ec182388de5998e3d016c870f4b8e4 = $(`<div id="html_14ec182388de5998e3d016c870f4b8e4" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 72857.43871340524<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Blizzard/Winter storm<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_417e272e745eab2da6832247e422c063.setContent(html_14ec182388de5998e3d016c870f4b8e4);
+            
+        
+
+        marker_c6b04ae35488169551d235fd6ba5642f.bindPopup(popup_417e272e745eab2da6832247e422c063)
+        ;
+
+        
+    
+    
+            var marker_cabf8a054348461958cac41c700e21e3 = L.marker(
+                [-14.171142578125, 95.009765625],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_d8992c2e5bbc9437cac6739bdde49743 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e579eb42da2fba4ead3fde21b13f8e6e = $(`<div id="html_e579eb42da2fba4ead3fde21b13f8e6e" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 523.6057770354048<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Tsunami<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_d8992c2e5bbc9437cac6739bdde49743.setContent(html_e579eb42da2fba4ead3fde21b13f8e6e);
+            
+        
+
+        marker_cabf8a054348461958cac41c700e21e3.bindPopup(popup_d8992c2e5bbc9437cac6739bdde49743)
+        ;
+
+        
+    
+    
+            var marker_98ff0911480945bc3bd9c50576cd322a = L.marker(
+                [-15.760009765625, 48.30712890625],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_70c4bea2e32454281dc2f18678ace420 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_9ca8f86006c8d07c7134f519ad0f6cfe = $(`<div id="html_9ca8f86006c8d07c7134f519ad0f6cfe" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 0.0<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Tsunami<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_70c4bea2e32454281dc2f18678ace420.setContent(html_9ca8f86006c8d07c7134f519ad0f6cfe);
+            
+        
+
+        marker_98ff0911480945bc3bd9c50576cd322a.bindPopup(popup_70c4bea2e32454281dc2f18678ace420)
+        ;
+
+        
+    
+    
+            var marker_6b0cb9bfe22f4e6275288cb231dfd4b8 = L.marker(
+                [-16.0767822265625, 25.34814453125],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_910664395f7b3fdc0c1dd73d3645a0b6 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_84a1e483d09d0976327b8d893665f696 = $(`<div id="html_84a1e483d09d0976327b8d893665f696" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 550.1558293645795<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Tornado<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_910664395f7b3fdc0c1dd73d3645a0b6.setContent(html_84a1e483d09d0976327b8d893665f696);
+            
+        
+
+        marker_6b0cb9bfe22f4e6275288cb231dfd4b8.bindPopup(popup_910664395f7b3fdc0c1dd73d3645a0b6)
+        ;
+
+        
+    
+    
+            var marker_ddbb62654b127a30fac47863c7f5b5b8 = L.marker(
+                [1.368896484375, 27.7978515625],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_1e17f7051af2db2098d8dfad1f4315ef = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_7ee61f07047314ad21e9ad0c4f37606f = $(`<div id="html_7ee61f07047314ad21e9ad0c4f37606f" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 69283.1764939928<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Lightning/Thunderstorms<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_1e17f7051af2db2098d8dfad1f4315ef.setContent(html_7ee61f07047314ad21e9ad0c4f37606f);
+            
+        
+
+        marker_ddbb62654b127a30fac47863c7f5b5b8.bindPopup(popup_1e17f7051af2db2098d8dfad1f4315ef)
+        ;
+
+        
+    
+    
+            var marker_2bde2cb631547d56c79667dd50ddf116 = L.marker(
+                [3.2059326171875, 10.2734375],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_89ff1a8662d1d048bfa6a57f36637fa6 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_0b025601180ebf58821ecb909e52efb4 = $(`<div id="html_0b025601180ebf58821ecb909e52efb4" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 69011.23259298636<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Severe weather<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_89ff1a8662d1d048bfa6a57f36637fa6.setContent(html_0b025601180ebf58821ecb909e52efb4);
+            
+        
+
+        marker_2bde2cb631547d56c79667dd50ddf116.bindPopup(popup_89ff1a8662d1d048bfa6a57f36637fa6)
+        ;
+
+        
+    
+    
+            var marker_10aa7af31d0896f69e2dbe30433e0c4f = L.marker(
+                [-18.9676513671875, 29.85986328125],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_dce4b743b63770487d1347140698fc4b = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_8ad1f185f1c18e931f164077a611356b = $(`<div id="html_8ad1f185f1c18e931f164077a611356b" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 27683.048441269097<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Hail<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_dce4b743b63770487d1347140698fc4b.setContent(html_8ad1f185f1c18e931f164077a611356b);
+            
+        
+
+        marker_10aa7af31d0896f69e2dbe30433e0c4f.bindPopup(popup_dce4b743b63770487d1347140698fc4b)
+        ;
+
+        
+    
+    
+            var marker_df98f09f67bb025c502516b3d4e2fa6b = L.marker(
+                [47.436279296875, 20.4375],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_6360d67571cdcffeae578e383684df5b = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_f2efe017c4c77b7012662c4c3153a3ea = $(`<div id="html_f2efe017c4c77b7012662c4c3153a3ea" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 113804.90296126854<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Hail<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_6360d67571cdcffeae578e383684df5b.setContent(html_f2efe017c4c77b7012662c4c3153a3ea);
+            
+        
+
+        marker_df98f09f67bb025c502516b3d4e2fa6b.bindPopup(popup_6360d67571cdcffeae578e383684df5b)
+        ;
+
+        
+    
+    
+            var marker_078bed10a1090a4a7a50fb52148b005a = L.marker(
+                [34.7215576171875, -88.317626953125],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_daa365e5aab3c10862ab13fd396fcbfe = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c80aaf3cde5ad6832ae460c857fdaed4 = $(`<div id="html_c80aaf3cde5ad6832ae460c857fdaed4" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 68475.67347890776<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Hail<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_daa365e5aab3c10862ab13fd396fcbfe.setContent(html_c80aaf3cde5ad6832ae460c857fdaed4);
+            
+        
+
+        marker_078bed10a1090a4a7a50fb52148b005a.bindPopup(popup_daa365e5aab3c10862ab13fd396fcbfe)
+        ;
+
+        
+    
+    
+            var marker_4cbb14282465cbedaac90aa7a0bfb880 = L.marker(
+                [31.6031494140625, 127.74658203125],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_a0368e3b03a4637e486bde7a1a18b7bb = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e4940e838b5621716ac4f9b2223dcd3e = $(`<div id="html_e4940e838b5621716ac4f9b2223dcd3e" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 253.032947120386<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Ash Fall<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_a0368e3b03a4637e486bde7a1a18b7bb.setContent(html_e4940e838b5621716ac4f9b2223dcd3e);
+            
+        
+
+        marker_4cbb14282465cbedaac90aa7a0bfb880.bindPopup(popup_a0368e3b03a4637e486bde7a1a18b7bb)
+        ;
+
+        
+    
+    
+            var marker_6262c6d574818e5ff1f5854cf4b14bb0 = L.marker(
+                [-16.40966796875, 158.0234375],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_d4ad79f9b4907f4bcc69903246536cf9 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_fb62944a402a6191862ac41b15e5e0fb = $(`<div id="html_fb62944a402a6191862ac41b15e5e0fb" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 297.717567800829<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Ash Fall<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_d4ad79f9b4907f4bcc69903246536cf9.setContent(html_fb62944a402a6191862ac41b15e5e0fb);
+            
+        
+
+        marker_6262c6d574818e5ff1f5854cf4b14bb0.bindPopup(popup_d4ad79f9b4907f4bcc69903246536cf9)
+        ;
+
+        
+    
+    
+            var marker_38f08a7610300d6e15377b59b9932803 = L.marker(
+                [-28.0064697265625, 149.157470703125],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_49b692df668b3b98489451ef573dba28 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_6933b97201068e521159faa9eea15cb7 = $(`<div id="html_6933b97201068e521159faa9eea15cb7" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 1618.2913522264396<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Hail<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_49b692df668b3b98489451ef573dba28.setContent(html_6933b97201068e521159faa9eea15cb7);
+            
+        
+
+        marker_38f08a7610300d6e15377b59b9932803.bindPopup(popup_49b692df668b3b98489451ef573dba28)
+        ;
+
+        
+    
+    
+            var marker_d5b54600576a6ecdf53355cccdc3ab0d = L.marker(
+                [-33.0323486328125, 146.65380859375],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_3f7f1d964a983054fcb65b4ecdd80635 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_fa2a87774c7302ea1e5daba7ca512a85 = $(`<div id="html_fa2a87774c7302ea1e5daba7ca512a85" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 783.493320529602<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Lightning/Thunderstorms<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_3f7f1d964a983054fcb65b4ecdd80635.setContent(html_fa2a87774c7302ea1e5daba7ca512a85);
+            
+        
+
+        marker_d5b54600576a6ecdf53355cccdc3ab0d.bindPopup(popup_3f7f1d964a983054fcb65b4ecdd80635)
+        ;
+
+        
+    
+    
+            var marker_2880e4cdf90d8aea2968549a89ed4234 = L.marker(
+                [-19.762939453125, -84.92041015625],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_51ddc4317bf6ce974c11251a2e36d250 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a959c46dbde123de68590922d25d17f4 = $(`<div id="html_a959c46dbde123de68590922d25d17f4" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 0.0<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Tsunami<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_51ddc4317bf6ce974c11251a2e36d250.setContent(html_a959c46dbde123de68590922d25d17f4);
+            
+        
+
+        marker_2880e4cdf90d8aea2968549a89ed4234.bindPopup(popup_51ddc4317bf6ce974c11251a2e36d250)
+        ;
+
+        
+    
+    
+            var marker_e037d17f22e0c7ac25c595630eae307a = L.marker(
+                [13.605687141418457, -89.0019302368164],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_79ad6188a6242f58707c9edd2896309c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_200eed228b64a0641359d6d2795d67f1 = $(`<div id="html_200eed228b64a0641359d6d2795d67f1" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 184.8116247876929<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Storm surge<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_79ad6188a6242f58707c9edd2896309c.setContent(html_200eed228b64a0641359d6d2795d67f1);
+            
+        
+
+        marker_e037d17f22e0c7ac25c595630eae307a.bindPopup(popup_79ad6188a6242f58707c9edd2896309c)
+        ;
+
+        
+    
+    
+            var marker_4581347fa10109c335d54dd776bc51c4 = L.marker(
+                [-38.7991943359375, 163.2529296875],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_083120369999c4854c5080b11f23a950 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_cca2968fd2194a8ac820b92946fad88b = $(`<div id="html_cca2968fd2194a8ac820b92946fad88b" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 0.0<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Tornado<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_083120369999c4854c5080b11f23a950.setContent(html_cca2968fd2194a8ac820b92946fad88b);
+            
+        
+
+        marker_4581347fa10109c335d54dd776bc51c4.bindPopup(popup_083120369999c4854c5080b11f23a950)
+        ;
+
+        
+    
+    
+            var marker_ba8fd5d03c46fd6a409ba777b01ff118 = L.marker(
+                [-22.7890625, 155.19287109375],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_31da398799035b03c124288693cc9bdb = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e48bd24e72a330bae63b1da2e183c4ca = $(`<div id="html_e48bd24e72a330bae63b1da2e183c4ca" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 205.98114137011783<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Ground movement<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_31da398799035b03c124288693cc9bdb.setContent(html_e48bd24e72a330bae63b1da2e183c4ca);
+            
+        
+
+        marker_ba8fd5d03c46fd6a409ba777b01ff118.bindPopup(popup_31da398799035b03c124288693cc9bdb)
+        ;
+
+        
+    
+    
+            var marker_a567f6c7eeea2fc5d896a1bfc8e68130 = L.marker(
+                [51.724365234375, 134.3671875],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_5f49618f5103668300e6475206ac265a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_50734978fe236762a08a353e104867f6 = $(`<div id="html_50734978fe236762a08a353e104867f6" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 1367.0143284486649<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Tropical cyclone<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_5f49618f5103668300e6475206ac265a.setContent(html_50734978fe236762a08a353e104867f6);
+            
+        
+
+        marker_a567f6c7eeea2fc5d896a1bfc8e68130.bindPopup(popup_5f49618f5103668300e6475206ac265a)
+        ;
+
+        
+    
+    
+            var marker_41dc7dad86a6bc8e9425002334d2f73c = L.marker(
+                [-30.4295654296875, 28.57421875],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_2d05c789517646b09151eb16bc6bf649 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_bd57958e72960d526e7565550f1e3dab = $(`<div id="html_bd57958e72960d526e7565550f1e3dab" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 72862.54482679417<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Blizzard/Winter storm<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_2d05c789517646b09151eb16bc6bf649.setContent(html_bd57958e72960d526e7565550f1e3dab);
+            
+        
+
+        marker_41dc7dad86a6bc8e9425002334d2f73c.bindPopup(popup_2d05c789517646b09151eb16bc6bf649)
+        ;
+
+        
+    
+    
+            var marker_aa1bf0bb26cc7926117c012f940758c2 = L.marker(
+                [32.396949768066406, 51.23680114746094],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_8651f6f4f2d7ff39c6cce78f5390d42c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_b72b337d2946e54674c1928c6223f870 = $(`<div id="html_b72b337d2946e54674c1928c6223f870" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 113140.64073132166<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Sand/Dust storm<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_8651f6f4f2d7ff39c6cce78f5390d42c.setContent(html_b72b337d2946e54674c1928c6223f870);
+            
+        
+
+        marker_aa1bf0bb26cc7926117c012f940758c2.bindPopup(popup_8651f6f4f2d7ff39c6cce78f5390d42c)
+        ;
+
+        
+    
+    
+            var marker_4700066155f2814a8c1e09cbce64ef22 = L.marker(
+                [31.9248046875, -91.27978515625],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_d3340cdf65249e86c319b02d3c27f5c8 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_39768df707966ffe6a6e882ce148ccb0 = $(`<div id="html_39768df707966ffe6a6e882ce148ccb0" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 152437.98246368542<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Extra-tropical storm<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_d3340cdf65249e86c319b02d3c27f5c8.setContent(html_39768df707966ffe6a6e882ce148ccb0);
+            
+        
+
+        marker_4700066155f2814a8c1e09cbce64ef22.bindPopup(popup_d3340cdf65249e86c319b02d3c27f5c8)
+        ;
+
+        
+    
+    
+            var marker_c0bf4d9f03afe63b598b1f28074e0552 = L.marker(
+                [-15.0296630859375, 46.0263671875],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_c597fbaebe814f5b001eba37bd1f864d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_412e7580a93f7f5222677f57ed47e8ed = $(`<div id="html_412e7580a93f7f5222677f57ed47e8ed" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 237.21775896427536<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Ash Fall<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_c597fbaebe814f5b001eba37bd1f864d.setContent(html_412e7580a93f7f5222677f57ed47e8ed);
+            
+        
+
+        marker_c0bf4d9f03afe63b598b1f28074e0552.bindPopup(popup_c597fbaebe814f5b001eba37bd1f864d)
+        ;
+
+        
+    
+    
+            var marker_8f2af07e28b0c1f12d916b03283c62e3 = L.marker(
+                [29.384033203125, -85.34765625],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_7c776ba1d56679a8d530b6c91d90d154 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ef9f81f707711c00ffa4fade18cd9547 = $(`<div id="html_ef9f81f707711c00ffa4fade18cd9547" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 29027.174049408473<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Ash Fall<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_7c776ba1d56679a8d530b6c91d90d154.setContent(html_ef9f81f707711c00ffa4fade18cd9547);
+            
+        
+
+        marker_8f2af07e28b0c1f12d916b03283c62e3.bindPopup(popup_7c776ba1d56679a8d530b6c91d90d154)
+        ;
+
+        
+    
+    
+            var marker_b729e0428587936d06d702bd7a0044a9 = L.marker(
+                [30.012237548828125, 116.45770263671875],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_59d2f2d928ed66bb0a5c6e31a855be64 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_47a6cb3f22b38f2c74e42ba1b323eea1 = $(`<div id="html_47a6cb3f22b38f2c74e42ba1b323eea1" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 0.0<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Volcanic activity (General)<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_59d2f2d928ed66bb0a5c6e31a855be64.setContent(html_47a6cb3f22b38f2c74e42ba1b323eea1);
+            
+        
+
+        marker_b729e0428587936d06d702bd7a0044a9.bindPopup(popup_59d2f2d928ed66bb0a5c6e31a855be64)
+        ;
+
+        
+    
+    
+            var marker_d270d552b4a1262206eaebae7bd91e84 = L.marker(
+                [-6.0904693603515625, 127.259765625],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_586799bd882ca39a3e601c02b343b3ea = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a24dfd0f2b4886e21c051dcbe3220bcf = $(`<div id="html_a24dfd0f2b4886e21c051dcbe3220bcf" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 0.0<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Volcanic activity (General)<br><strong>Appeal:</strong> Yes</div>`)[0];
+                popup_586799bd882ca39a3e601c02b343b3ea.setContent(html_a24dfd0f2b4886e21c051dcbe3220bcf);
+            
+        
+
+        marker_d270d552b4a1262206eaebae7bd91e84.bindPopup(popup_586799bd882ca39a3e601c02b343b3ea)
+        ;
+
+        
+    
+    
+            var marker_b2a8fe344076e10a8d8d6b48ce4286b2 = L.marker(
+                [18.7587890625, 117.71533203125],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_e63e8049bb230d19123257b57df3b2c7 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_6061e1431a49c34d13e47906013429d5 = $(`<div id="html_6061e1431a49c34d13e47906013429d5" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 0.0<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Tropical cyclone<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_e63e8049bb230d19123257b57df3b2c7.setContent(html_6061e1431a49c34d13e47906013429d5);
+            
+        
+
+        marker_b2a8fe344076e10a8d8d6b48ce4286b2.bindPopup(popup_e63e8049bb230d19123257b57df3b2c7)
+        ;
+
+        
+    
+    
+            var marker_99bbf6f0df5ea12ce9e09180cd473069 = L.marker(
+                [25.073486328125, 90.7109375],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_eebe24f7700ae9aeb19ec688b56ef6af = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_3837961fb477b541a08c8d08a1dc6b8d = $(`<div id="html_3837961fb477b541a08c8d08a1dc6b8d" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 1.0766792008153854<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Storm (General)<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_eebe24f7700ae9aeb19ec688b56ef6af.setContent(html_3837961fb477b541a08c8d08a1dc6b8d);
+            
+        
+
+        marker_99bbf6f0df5ea12ce9e09180cd473069.bindPopup(popup_eebe24f7700ae9aeb19ec688b56ef6af)
+        ;
+
+        
+    
+    
+            var marker_c1fe16add52ac86dc9d11ccae440fa0c = L.marker(
+                [26.68115234375, -81.48388671875],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_b99659d07ca390cfec2156a1aeddf28d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c1d0f8f57c4e336723712308c84ae285 = $(`<div id="html_c1d0f8f57c4e336723712308c84ae285" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 12145.630833762563<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Ground movement<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_b99659d07ca390cfec2156a1aeddf28d.setContent(html_c1d0f8f57c4e336723712308c84ae285);
+            
+        
+
+        marker_c1fe16add52ac86dc9d11ccae440fa0c.bindPopup(popup_b99659d07ca390cfec2156a1aeddf28d)
+        ;
+
+        
+    
+    
+            var marker_d772aefedeb552b0af0fddeb6cf7751c = L.marker(
+                [53.93310546875, 65.06982421875],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_6c7d05a2f61530f11068870256d3dddd = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_12decb83dd26492dd3f97f51bfc7b533 = $(`<div id="html_12decb83dd26492dd3f97f51bfc7b533" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 10645.805730926299<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Ground movement<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_6c7d05a2f61530f11068870256d3dddd.setContent(html_12decb83dd26492dd3f97f51bfc7b533);
+            
+        
+
+        marker_d772aefedeb552b0af0fddeb6cf7751c.bindPopup(popup_6c7d05a2f61530f11068870256d3dddd)
+        ;
+
+        
+    
+    
+            var marker_3792060f9ad2437f82f885782f2d5243 = L.marker(
+                [46.707763671875, 16.33447265625],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_9cf317a18f9e78b1f4a0c503e802a8ff = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a4c16ed6facb8f7d7d85ceb659e77178 = $(`<div id="html_a4c16ed6facb8f7d7d85ceb659e77178" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 0.0<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Storm (General)<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_9cf317a18f9e78b1f4a0c503e802a8ff.setContent(html_a4c16ed6facb8f7d7d85ceb659e77178);
+            
+        
+
+        marker_3792060f9ad2437f82f885782f2d5243.bindPopup(popup_9cf317a18f9e78b1f4a0c503e802a8ff)
+        ;
+
+        
+    
+    
+            var marker_da52b2abe37815232f6cffc3bab4e9b2 = L.marker(
+                [22.799072265625, -83.3291015625],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_cb95292b6e056a2b75d0f71abe45159e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_38cdfd6cf8ca1c6e7897c8605f70b541 = $(`<div id="html_38cdfd6cf8ca1c6e7897c8605f70b541" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 65.65606037487935<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Tropical cyclone<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_cb95292b6e056a2b75d0f71abe45159e.setContent(html_38cdfd6cf8ca1c6e7897c8605f70b541);
+            
+        
+
+        marker_da52b2abe37815232f6cffc3bab4e9b2.bindPopup(popup_cb95292b6e056a2b75d0f71abe45159e)
+        ;
+
+        
+    
+    
+            var marker_5b613a7d8c8f35c0fe29ed9ea1ecd324 = L.marker(
+                [-16.205810546875, 46.99267578125],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_b96685007f9f96aad08a95edca1fe77d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_f9a4bd7f04667a122e5ced6b68b9d9cc = $(`<div id="html_f9a4bd7f04667a122e5ced6b68b9d9cc" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 25.945904680999316<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Tropical cyclone<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_b96685007f9f96aad08a95edca1fe77d.setContent(html_f9a4bd7f04667a122e5ced6b68b9d9cc);
+            
+        
+
+        marker_5b613a7d8c8f35c0fe29ed9ea1ecd324.bindPopup(popup_b96685007f9f96aad08a95edca1fe77d)
+        ;
+
+        
+    
+    
+            var marker_99b5fcb47c973e39c9a50da8b79d3cd6 = L.marker(
+                [28.96826171875, 110.7451171875],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_adf97c5019a7bb3c33c9ef34af8b4859 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e1121c14bc3f2208d658cd5afd329ed8 = $(`<div id="html_e1121c14bc3f2208d658cd5afd329ed8" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 20005.031993665223<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Ground movement<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_adf97c5019a7bb3c33c9ef34af8b4859.setContent(html_e1121c14bc3f2208d658cd5afd329ed8);
+            
+        
+
+        marker_99b5fcb47c973e39c9a50da8b79d3cd6.bindPopup(popup_adf97c5019a7bb3c33c9ef34af8b4859)
+        ;
+
+        
+    
+    
+            var marker_8c8d4793a2a93d21fb78b21532e1383e = L.marker(
+                [48.1192626953125, 9.431640625],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_ffe1e5edb4a2fa0c107a6719faff014d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_5b70fb9b7c541fe5018c23e7f90847ad = $(`<div id="html_5b70fb9b7c541fe5018c23e7f90847ad" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 0.0<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Severe weather<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_ffe1e5edb4a2fa0c107a6719faff014d.setContent(html_5b70fb9b7c541fe5018c23e7f90847ad);
+            
+        
+
+        marker_8c8d4793a2a93d21fb78b21532e1383e.bindPopup(popup_ffe1e5edb4a2fa0c107a6719faff014d)
+        ;
+
+        
+    
+    
+            var marker_6186d645365dd6091dd5aae96050d35d = L.marker(
+                [27.933837890625, 94.10400390625],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_a23b86d01d7b6539bff25205dc3e19ce = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c560f912f7b4b6a7fe6e565a0662eea7 = $(`<div id="html_c560f912f7b4b6a7fe6e565a0662eea7" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 40.70354001459512<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Lightning/Thunderstorms<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_a23b86d01d7b6539bff25205dc3e19ce.setContent(html_c560f912f7b4b6a7fe6e565a0662eea7);
+            
+        
+
+        marker_6186d645365dd6091dd5aae96050d35d.bindPopup(popup_a23b86d01d7b6539bff25205dc3e19ce)
+        ;
+
+        
+    
+    
+            var marker_d32c4d6ef4f82146198fcc829de7a5d3 = L.marker(
+                [48.011962890625, 8.70458984375],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_65c9dbaa28e9e17dab43b0640a58fa09 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_10ec8cec01148e09a49c80b85349ff68 = $(`<div id="html_10ec8cec01148e09a49c80b85349ff68" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 40.70354001459512<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Lightning/Thunderstorms<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_65c9dbaa28e9e17dab43b0640a58fa09.setContent(html_10ec8cec01148e09a49c80b85349ff68);
+            
+        
+
+        marker_d32c4d6ef4f82146198fcc829de7a5d3.bindPopup(popup_65c9dbaa28e9e17dab43b0640a58fa09)
+        ;
+
+        
+    
+    
+            var marker_8dd83abc2d6b9641410c670ffca335e8 = L.marker(
+                [53.27379834651947, 17.745344161987305],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_e8b80f6c38e03cdd23435c03d0ff4225 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_fdee8808da19cc16c98b4e548ebee4ab = $(`<div id="html_fdee8808da19cc16c98b4e548ebee4ab" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 0.0<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Derecho<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_e8b80f6c38e03cdd23435c03d0ff4225.setContent(html_fdee8808da19cc16c98b4e548ebee4ab);
+            
+        
+
+        marker_8dd83abc2d6b9641410c670ffca335e8.bindPopup(popup_e8b80f6c38e03cdd23435c03d0ff4225)
+        ;
+
+        
+    
+    
+            var marker_51d2d17f8c479eb6a2a671e81b35643e = L.marker(
+                [13.2899169921875, -89.607421875],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_0fa46ff436a95fd9c49593e3c30aeed1 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_4075a473b25f1612cfb1d1433a50eee7 = $(`<div id="html_4075a473b25f1612cfb1d1433a50eee7" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 0.0<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Ash Fall<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_0fa46ff436a95fd9c49593e3c30aeed1.setContent(html_4075a473b25f1612cfb1d1433a50eee7);
+            
+        
+
+        marker_51d2d17f8c479eb6a2a671e81b35643e.bindPopup(popup_0fa46ff436a95fd9c49593e3c30aeed1)
+        ;
+
+        
+    
+    
+            var marker_6a835210f05f9ebf5909be7a39918925 = L.marker(
+                [-0.46514892578125, -67.7034912109375],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_378e0b1a9e03bc719c12a7fc90393f3e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_64b0c59582fdabdfcdc971145109a934 = $(`<div id="html_64b0c59582fdabdfcdc971145109a934" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 0.0<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Volcanic activity (General)<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_378e0b1a9e03bc719c12a7fc90393f3e.setContent(html_64b0c59582fdabdfcdc971145109a934);
+            
+        
+
+        marker_6a835210f05f9ebf5909be7a39918925.bindPopup(popup_378e0b1a9e03bc719c12a7fc90393f3e)
+        ;
+
+        
+    
+    
+            var marker_f1d45d2dedb856d2b38ce6c188268b95 = L.marker(
+                [49.5552978515625, 52.3037109375],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_45a40fee387758f0f032a15ff7ba28c2 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_98fe3f4b580666c30dc8c0af222791f7 = $(`<div id="html_98fe3f4b580666c30dc8c0af222791f7" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 0.0<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Ash Fall<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_45a40fee387758f0f032a15ff7ba28c2.setContent(html_98fe3f4b580666c30dc8c0af222791f7);
+            
+        
+
+        marker_f1d45d2dedb856d2b38ce6c188268b95.bindPopup(popup_45a40fee387758f0f032a15ff7ba28c2)
+        ;
+
+        
+    
+    
+            var marker_e0c2da8b707ba9845d88fb933e6920a5 = L.marker(
+                [0.07763671875, 33.525390625],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_24da71d79949402c40d4253a36e7e482 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ef578b6e67bfd8b7c7f343193b0d7518 = $(`<div id="html_ef578b6e67bfd8b7c7f343193b0d7518" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 304.18398334447534<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Ground movement<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_24da71d79949402c40d4253a36e7e482.setContent(html_ef578b6e67bfd8b7c7f343193b0d7518);
+            
+        
+
+        marker_e0c2da8b707ba9845d88fb933e6920a5.bindPopup(popup_24da71d79949402c40d4253a36e7e482)
+        ;
+
+        
+    
+    
+            var marker_2a5e410576d938dbcc22e4f564c36c11 = L.marker(
+                [33.972900390625, -90.5380859375],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_6d38f08ae8d3166df21815b9b14172d9 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_3de714be6492fbbf0c6c59327f675a1d = $(`<div id="html_3de714be6492fbbf0c6c59327f675a1d" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 44.04514498348233<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Lightning/Thunderstorms<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_6d38f08ae8d3166df21815b9b14172d9.setContent(html_3de714be6492fbbf0c6c59327f675a1d);
+            
+        
+
+        marker_2a5e410576d938dbcc22e4f564c36c11.bindPopup(popup_6d38f08ae8d3166df21815b9b14172d9)
+        ;
+
+        
+    
+    
+            var marker_a5d58bd43038d488501e1dbbb75441fd = L.marker(
+                [-14.380126953125, 106.2822265625],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_5149ccf724f0121566ba7ba7f71ec519 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_3535c2c2345aab0a0c8619f62edfff39 = $(`<div id="html_3535c2c2345aab0a0c8619f62edfff39" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 0.0<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Tropical cyclone<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_5149ccf724f0121566ba7ba7f71ec519.setContent(html_3535c2c2345aab0a0c8619f62edfff39);
+            
+        
+
+        marker_a5d58bd43038d488501e1dbbb75441fd.bindPopup(popup_5149ccf724f0121566ba7ba7f71ec519)
+        ;
+
+        
+    
+    
+            var marker_cf0f4a7448f2096e8dc2c97760266cfa = L.marker(
+                [-33.9229736328125, 153.708984375],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_ac69c9f27aa9b597ec59958ef8038ec4 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_4688d848fd975b004d9760b3d389a0b7 = $(`<div id="html_4688d848fd975b004d9760b3d389a0b7" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 0.0<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Storm (General)<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_ac69c9f27aa9b597ec59958ef8038ec4.setContent(html_4688d848fd975b004d9760b3d389a0b7);
+            
+        
+
+        marker_cf0f4a7448f2096e8dc2c97760266cfa.bindPopup(popup_ac69c9f27aa9b597ec59958ef8038ec4)
+        ;
+
+        
+    
+    
+            var marker_e9d495d2c6699f75b6f4b6bc0788ea2c = L.marker(
+                [-29.7943115234375, 135.2431640625],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_b346bb0c877bfa57d98b1dd032ffb274 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_f3b491badcfa7190f79b7982b2d9a2d9 = $(`<div id="html_f3b491badcfa7190f79b7982b2d9a2d9" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 177.29872668990035<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Severe weather<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_b346bb0c877bfa57d98b1dd032ffb274.setContent(html_f3b491badcfa7190f79b7982b2d9a2d9);
+            
+        
+
+        marker_e9d495d2c6699f75b6f4b6bc0788ea2c.bindPopup(popup_b346bb0c877bfa57d98b1dd032ffb274)
+        ;
+
+        
+    
+    
+            var marker_27b4eaac4e605f22c6074d9dbcae8212 = L.marker(
+                [26.120849609375, 103.16845703125],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_818e9d444810e9590a3fa07fbb5bc816 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_36cf9f6721981069a6ad7a529b29f5e8 = $(`<div id="html_36cf9f6721981069a6ad7a529b29f5e8" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 44.89584998330747<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Tornado<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_818e9d444810e9590a3fa07fbb5bc816.setContent(html_36cf9f6721981069a6ad7a529b29f5e8);
+            
+        
+
+        marker_27b4eaac4e605f22c6074d9dbcae8212.bindPopup(popup_818e9d444810e9590a3fa07fbb5bc816)
+        ;
+
+        
+    
+    
+            var marker_305c0f03974fe8219a240406f82bd443 = L.marker(
+                [28.64990234375, 101.025390625],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_5255562252bb4f15cec8e3a0ec9c126c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_4afc397859ab87ea0213e2b4e5146f7f = $(`<div id="html_4afc397859ab87ea0213e2b4e5146f7f" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 0.0<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Severe weather<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_5255562252bb4f15cec8e3a0ec9c126c.setContent(html_4afc397859ab87ea0213e2b4e5146f7f);
+            
+        
+
+        marker_305c0f03974fe8219a240406f82bd443.bindPopup(popup_5255562252bb4f15cec8e3a0ec9c126c)
+        ;
+
+        
+    
+    
+            var marker_90411a9fe8a269f1341e9b1bd5e43d66 = L.marker(
+                [22.9671630859375, -83.9619140625],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_e667e932f50fb5fde9241711a2a2274b = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_5c6f923f1f380232da3f8088fe871096 = $(`<div id="html_5c6f923f1f380232da3f8088fe871096" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 0.0<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Severe weather<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_e667e932f50fb5fde9241711a2a2274b.setContent(html_5c6f923f1f380232da3f8088fe871096);
+            
+        
+
+        marker_90411a9fe8a269f1341e9b1bd5e43d66.bindPopup(popup_e667e932f50fb5fde9241711a2a2274b)
+        ;
+
+        
+    
+    
+            var marker_8a5c609377d1128c76f2b79684b5495e = L.marker(
+                [30.6123046875, -83.9716796875],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_f7e9f44a6957c84d61385f1479d0cc2f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_59a617e05776ca266fc85f4b3771e213 = $(`<div id="html_59a617e05776ca266fc85f4b3771e213" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 0.0<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Storm (General)<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_f7e9f44a6957c84d61385f1479d0cc2f.setContent(html_59a617e05776ca266fc85f4b3771e213);
+            
+        
+
+        marker_8a5c609377d1128c76f2b79684b5495e.bindPopup(popup_f7e9f44a6957c84d61385f1479d0cc2f)
+        ;
+
+        
+    
+    
+            var marker_58c8aaf05a7414ab90b71cf8b8286105 = L.marker(
+                [36.05517578125, -83.6318359375],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_91fa729d8e78085b1d10ce6243dc01b2 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_0e2d0f92baefd410ec4f0f43b74a4948 = $(`<div id="html_0e2d0f92baefd410ec4f0f43b74a4948" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 19.388448258652282<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Blizzard/Winter storm<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_91fa729d8e78085b1d10ce6243dc01b2.setContent(html_0e2d0f92baefd410ec4f0f43b74a4948);
+            
+        
+
+        marker_58c8aaf05a7414ab90b71cf8b8286105.bindPopup(popup_91fa729d8e78085b1d10ce6243dc01b2)
+        ;
+
+        
+    
+    
+            var marker_f81184a5930c026f4b78370cd213693e = L.marker(
+                [0.0118408203125, 18.4169921875],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_5a54dff9f5e43c8fedca692fa0e7e1c8 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_3e65d563586fee703cbb902b616214cb = $(`<div id="html_3e65d563586fee703cbb902b616214cb" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 0.0<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Storm (General)<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_5a54dff9f5e43c8fedca692fa0e7e1c8.setContent(html_3e65d563586fee703cbb902b616214cb);
+            
+        
+
+        marker_f81184a5930c026f4b78370cd213693e.bindPopup(popup_5a54dff9f5e43c8fedca692fa0e7e1c8)
+        ;
+
+        
+    
+    
+            var marker_5eb4464ec8eacc2e7f7656b5e2dcc55c = L.marker(
+                [36.634765625, -90.05322265625],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_7d0688334472c3f30f16167f6282780d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e0f9850b2a3cc5487808b85140153c01 = $(`<div id="html_e0f9850b2a3cc5487808b85140153c01" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 35.978872084920326<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Tornado<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_7d0688334472c3f30f16167f6282780d.setContent(html_e0f9850b2a3cc5487808b85140153c01);
+            
+        
+
+        marker_5eb4464ec8eacc2e7f7656b5e2dcc55c.bindPopup(popup_7d0688334472c3f30f16167f6282780d)
+        ;
+
+        
+    
+    
+            var marker_0a684d42383a24bf164c36276634f3df = L.marker(
+                [50.689208984375, 57.52392578125],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_905dd2f160986381684188809a6f2cfa = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_f0d44867851ac1e3bf9c431879b500cb = $(`<div id="html_f0d44867851ac1e3bf9c431879b500cb" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 35.978872084920326<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Tornado<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_905dd2f160986381684188809a6f2cfa.setContent(html_f0d44867851ac1e3bf9c431879b500cb);
+            
+        
+
+        marker_0a684d42383a24bf164c36276634f3df.bindPopup(popup_905dd2f160986381684188809a6f2cfa)
+        ;
+
+        
+    
+    
+            var marker_be1e31dcf76cb63ca0a5c3849b8a5534 = L.marker(
+                [47.777587890625, 4.48388671875],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_6aa6fb5cf0f02b14c1768fa32e8b7167 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e9050e0c8c603862ece6cd12c9dca35c = $(`<div id="html_e9050e0c8c603862ece6cd12c9dca35c" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 0.0<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Extra-tropical storm<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_6aa6fb5cf0f02b14c1768fa32e8b7167.setContent(html_e9050e0c8c603862ece6cd12c9dca35c);
+            
+        
+
+        marker_be1e31dcf76cb63ca0a5c3849b8a5534.bindPopup(popup_6aa6fb5cf0f02b14c1768fa32e8b7167)
+        ;
+
+        
+    
+    
+            var marker_0a6d6d97a71a4cfff465011cac1c6ae7 = L.marker(
+                [46.7646484375, 26.31787109375],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_4d365aa5f72b330142ca9d35142cd6dd = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_8bbd305d568750375328f64b75b2dc12 = $(`<div id="html_8bbd305d568750375328f64b75b2dc12" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 19.207940526792456<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Blizzard/Winter storm<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_4d365aa5f72b330142ca9d35142cd6dd.setContent(html_8bbd305d568750375328f64b75b2dc12);
+            
+        
+
+        marker_0a6d6d97a71a4cfff465011cac1c6ae7.bindPopup(popup_4d365aa5f72b330142ca9d35142cd6dd)
+        ;
+
+        
+    
+    
+            var marker_3b61f93473a1aa8595b9cad587ab64bb = L.marker(
+                [25.09033203125, 103.6025390625],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_81667e5647fe2a8fcc294354ab67e08a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_55a8dd1245d9007591b0ae437734eb28 = $(`<div id="html_55a8dd1245d9007591b0ae437734eb28" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 0.0<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Hail<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_81667e5647fe2a8fcc294354ab67e08a.setContent(html_55a8dd1245d9007591b0ae437734eb28);
+            
+        
+
+        marker_3b61f93473a1aa8595b9cad587ab64bb.bindPopup(popup_81667e5647fe2a8fcc294354ab67e08a)
+        ;
+
+        
+    
+    
+            var marker_ead7fcb7a45074588571087551003d2b = L.marker(
+                [10.502197265625, 100.58349609375],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_bffeea35ba10e4744b9a5d5873624838 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_76302b8b2fd3ec5f6a2894deaae321f4 = $(`<div id="html_76302b8b2fd3ec5f6a2894deaae321f4" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 0.0<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Tsunami<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_bffeea35ba10e4744b9a5d5873624838.setContent(html_76302b8b2fd3ec5f6a2894deaae321f4);
+            
+        
+
+        marker_ead7fcb7a45074588571087551003d2b.bindPopup(popup_bffeea35ba10e4744b9a5d5873624838)
+        ;
+
+        
+    
+    
+            var marker_65675d68ad67abc186dbda25e9daebbc = L.marker(
+                [35.744384765625, 106.392578125],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_40ad5f3f32e6426eb75fc89acf2ea6d9 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_2c441ea5d061ad6bf6234429e12f0683 = $(`<div id="html_2c441ea5d061ad6bf6234429e12f0683" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 24.55901588811544<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Blizzard/Winter storm<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_40ad5f3f32e6426eb75fc89acf2ea6d9.setContent(html_2c441ea5d061ad6bf6234429e12f0683);
+            
+        
+
+        marker_65675d68ad67abc186dbda25e9daebbc.bindPopup(popup_40ad5f3f32e6426eb75fc89acf2ea6d9)
+        ;
+
+        
+    
+    
+            var marker_89945c48c297cd07dce66b8f6d0465c3 = L.marker(
+                [-14.171142578125, 95.009765625],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_50ea01e1a155bcc36bdb8a70f2afb054 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_9e9d0e9b7cb4b90845dd42fea02c25ba = $(`<div id="html_9e9d0e9b7cb4b90845dd42fea02c25ba" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 0.0<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Tsunami<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_50ea01e1a155bcc36bdb8a70f2afb054.setContent(html_9e9d0e9b7cb4b90845dd42fea02c25ba);
+            
+        
+
+        marker_89945c48c297cd07dce66b8f6d0465c3.bindPopup(popup_50ea01e1a155bcc36bdb8a70f2afb054)
+        ;
+
+        
+    
+    
+            var marker_a74e9c7eea98dbfcbe097c467058808f = L.marker(
+                [-15.760009765625, 48.30712890625],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_d2e59a1f093924c71af955287a15f84e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d908d9d270480476f8393269c4846dcd = $(`<div id="html_d908d9d270480476f8393269c4846dcd" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 0.0<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Tsunami<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_d2e59a1f093924c71af955287a15f84e.setContent(html_d908d9d270480476f8393269c4846dcd);
+            
+        
+
+        marker_a74e9c7eea98dbfcbe097c467058808f.bindPopup(popup_d2e59a1f093924c71af955287a15f84e)
+        ;
+
+        
+    
+    
+            var marker_26f0c413dd7a931a71bddcbb7c67d05e = L.marker(
+                [-16.0767822265625, 25.34814453125],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_c5690980e12b732f0b3406df4b47e191 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e96f3ad4b07697b10d22322b48c39fad = $(`<div id="html_e96f3ad4b07697b10d22322b48c39fad" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 41.36773951725793<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Tornado<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_c5690980e12b732f0b3406df4b47e191.setContent(html_e96f3ad4b07697b10d22322b48c39fad);
+            
+        
+
+        marker_26f0c413dd7a931a71bddcbb7c67d05e.bindPopup(popup_c5690980e12b732f0b3406df4b47e191)
+        ;
+
+        
+    
+    
+            var marker_b01b53f035e808ca9e9da0099fc50f58 = L.marker(
+                [1.368896484375, 27.7978515625],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_f4f82f391fdcebd6289c9bc98d1db577 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d2fd8d1746864987bba0d1d59a20a20f = $(`<div id="html_d2fd8d1746864987bba0d1d59a20a20f" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 44.04514498348233<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Lightning/Thunderstorms<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_f4f82f391fdcebd6289c9bc98d1db577.setContent(html_d2fd8d1746864987bba0d1d59a20a20f);
+            
+        
+
+        marker_b01b53f035e808ca9e9da0099fc50f58.bindPopup(popup_f4f82f391fdcebd6289c9bc98d1db577)
+        ;
+
+        
+    
+    
+            var marker_61329f3eb2d4a6c7ffe8ff34546ee7ac = L.marker(
+                [3.2059326171875, 10.2734375],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_2c2c99471a863cd499c30bea7b9c17cd = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_78b22ce20dfc9c81cf2767793de90fe7 = $(`<div id="html_78b22ce20dfc9c81cf2767793de90fe7" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 0.0<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Severe weather<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_2c2c99471a863cd499c30bea7b9c17cd.setContent(html_78b22ce20dfc9c81cf2767793de90fe7);
+            
+        
+
+        marker_61329f3eb2d4a6c7ffe8ff34546ee7ac.bindPopup(popup_2c2c99471a863cd499c30bea7b9c17cd)
+        ;
+
+        
+    
+    
+            var marker_f1c058ad7680c77c93ac9f2e01faf09c = L.marker(
+                [-18.9676513671875, 29.85986328125],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_66bca069ac2cee04365f89f6f70fd6fc = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_1305f7ee76e00f67a916699247d24f40 = $(`<div id="html_1305f7ee76e00f67a916699247d24f40" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 178.87751603991353<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Hail<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_66bca069ac2cee04365f89f6f70fd6fc.setContent(html_1305f7ee76e00f67a916699247d24f40);
+            
+        
+
+        marker_f1c058ad7680c77c93ac9f2e01faf09c.bindPopup(popup_66bca069ac2cee04365f89f6f70fd6fc)
+        ;
+
+        
+    
+    
+            var marker_9e63fb9bc9a51acd7fe3cbff568ff088 = L.marker(
+                [47.436279296875, 20.4375],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_613d99f67ffa822d41a7048aaa70149e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_5d2c189f8a9b05e846a54433905719b0 = $(`<div id="html_5d2c189f8a9b05e846a54433905719b0" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 0.0<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Hail<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_613d99f67ffa822d41a7048aaa70149e.setContent(html_5d2c189f8a9b05e846a54433905719b0);
+            
+        
+
+        marker_9e63fb9bc9a51acd7fe3cbff568ff088.bindPopup(popup_613d99f67ffa822d41a7048aaa70149e)
+        ;
+
+        
+    
+    
+            var marker_1be11c6dfefdca4f13239a75d389eeca = L.marker(
+                [34.7215576171875, -88.317626953125],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_9fa342e847d0b64df6adbed19fc919a1 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_24759a407d40d63563ed5b6b55f7c6a0 = $(`<div id="html_24759a407d40d63563ed5b6b55f7c6a0" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 0.0<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Hail<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_9fa342e847d0b64df6adbed19fc919a1.setContent(html_24759a407d40d63563ed5b6b55f7c6a0);
+            
+        
+
+        marker_1be11c6dfefdca4f13239a75d389eeca.bindPopup(popup_9fa342e847d0b64df6adbed19fc919a1)
+        ;
+
+        
+    
+    
+            var marker_d14249a4859bbdf0c5b132f7fc72a462 = L.marker(
+                [31.6031494140625, 127.74658203125],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_518a50e5420e1e22d79603dc7e74411d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_b4453b279cbde03299953842a3599308 = $(`<div id="html_b4453b279cbde03299953842a3599308" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 0.0<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Ash Fall<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_518a50e5420e1e22d79603dc7e74411d.setContent(html_b4453b279cbde03299953842a3599308);
+            
+        
+
+        marker_d14249a4859bbdf0c5b132f7fc72a462.bindPopup(popup_518a50e5420e1e22d79603dc7e74411d)
+        ;
+
+        
+    
+    
+            var marker_f48082d3984a148d7e004a4d0491c2dd = L.marker(
+                [-16.40966796875, 158.0234375],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_17c62bb3b0142b6f8a0819b42cfef00b = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_b5c96614ddc197b278ac0217e554ed80 = $(`<div id="html_b5c96614ddc197b278ac0217e554ed80" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 0.0<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Ash Fall<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_17c62bb3b0142b6f8a0819b42cfef00b.setContent(html_b5c96614ddc197b278ac0217e554ed80);
+            
+        
+
+        marker_f48082d3984a148d7e004a4d0491c2dd.bindPopup(popup_17c62bb3b0142b6f8a0819b42cfef00b)
+        ;
+
+        
+    
+    
+            var marker_00121c2e04ef3d2cbec29fd72d1ed617 = L.marker(
+                [-28.0064697265625, 149.157470703125],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_1e11b947344ba36c863eaed07f5b9c63 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_f2977990d9219e66e66b12df8ad9793b = $(`<div id="html_f2977990d9219e66e66b12df8ad9793b" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 0.0<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Hail<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_1e11b947344ba36c863eaed07f5b9c63.setContent(html_f2977990d9219e66e66b12df8ad9793b);
+            
+        
+
+        marker_00121c2e04ef3d2cbec29fd72d1ed617.bindPopup(popup_1e11b947344ba36c863eaed07f5b9c63)
+        ;
+
+        
+    
+    
+            var marker_b6cb626beec149821345300c973209b1 = L.marker(
+                [-33.0323486328125, 146.65380859375],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_c6837f1b0b58ce8da48cd48bf5b1be25 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d85a6d76e599b09d27fa02d81ca78f75 = $(`<div id="html_d85a6d76e599b09d27fa02d81ca78f75" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 49.33565732337745<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Lightning/Thunderstorms<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_c6837f1b0b58ce8da48cd48bf5b1be25.setContent(html_d85a6d76e599b09d27fa02d81ca78f75);
+            
+        
+
+        marker_b6cb626beec149821345300c973209b1.bindPopup(popup_c6837f1b0b58ce8da48cd48bf5b1be25)
+        ;
+
+        
+    
+    
+            var marker_aded77c44409c522c8317674ebc38fd2 = L.marker(
+                [-19.762939453125, -84.92041015625],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_4374bc04dfd78e45e1df923e32fec2a0 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_dd3a7a1e21c816ca82689f79ef636b07 = $(`<div id="html_dd3a7a1e21c816ca82689f79ef636b07" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 0.0<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Tsunami<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_4374bc04dfd78e45e1df923e32fec2a0.setContent(html_dd3a7a1e21c816ca82689f79ef636b07);
+            
+        
+
+        marker_aded77c44409c522c8317674ebc38fd2.bindPopup(popup_4374bc04dfd78e45e1df923e32fec2a0)
+        ;
+
+        
+    
+    
+            var marker_454812e3270c8b5d223e2671edc98bea = L.marker(
+                [13.605687141418457, -89.0019302368164],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_2c9bbabc2f66ef8c7d350d59ea147210 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_f2fb7845d97a0dcb2858d3b4fe065501 = $(`<div id="html_f2fb7845d97a0dcb2858d3b4fe065501" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 0.0<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Storm surge<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_2c9bbabc2f66ef8c7d350d59ea147210.setContent(html_f2fb7845d97a0dcb2858d3b4fe065501);
+            
+        
+
+        marker_454812e3270c8b5d223e2671edc98bea.bindPopup(popup_2c9bbabc2f66ef8c7d350d59ea147210)
+        ;
+
+        
+    
+    
+            var marker_f7daef6ef07f229b2f4bc5ad43db397c = L.marker(
+                [-38.7991943359375, 163.2529296875],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_4fcbe2d56ee8aa6d2203255f8f6f3e86 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_bf57f30a2f795cb1517e0b75cc58ef32 = $(`<div id="html_bf57f30a2f795cb1517e0b75cc58ef32" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 245.3415323903057<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Tornado<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_4fcbe2d56ee8aa6d2203255f8f6f3e86.setContent(html_bf57f30a2f795cb1517e0b75cc58ef32);
+            
+        
+
+        marker_f7daef6ef07f229b2f4bc5ad43db397c.bindPopup(popup_4fcbe2d56ee8aa6d2203255f8f6f3e86)
+        ;
+
+        
+    
+    
+            var marker_e04a0683115389a00b96eff423925959 = L.marker(
+                [-22.7890625, 155.19287109375],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_8f791147c673b5092e998482af89721d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_bf6873062d2d283f25649d5fa006b3e8 = $(`<div id="html_bf6873062d2d283f25649d5fa006b3e8" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 0.0<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Ground movement<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_8f791147c673b5092e998482af89721d.setContent(html_bf6873062d2d283f25649d5fa006b3e8);
+            
+        
+
+        marker_e04a0683115389a00b96eff423925959.bindPopup(popup_8f791147c673b5092e998482af89721d)
+        ;
+
+        
+    
+    
+            var marker_b9eba8c61e2a5a4766013a8fe85951b5 = L.marker(
+                [51.724365234375, 134.3671875],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_61577ad188b7e90907d8b19500f50382 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_84d49967f1f405d547d01f123e8cdd48 = $(`<div id="html_84d49967f1f405d547d01f123e8cdd48" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 69.239315125083<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Tropical cyclone<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_61577ad188b7e90907d8b19500f50382.setContent(html_84d49967f1f405d547d01f123e8cdd48);
+            
+        
+
+        marker_b9eba8c61e2a5a4766013a8fe85951b5.bindPopup(popup_61577ad188b7e90907d8b19500f50382)
+        ;
+
+        
+    
+    
+            var marker_a856ba19f4b0e01341e760b2560c9607 = L.marker(
+                [-30.4295654296875, 28.57421875],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_c6dfc55fdd0138e7432c49d0dad178c4 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_647dcde2a8e2f542a4a5f65b84c6bde4 = $(`<div id="html_647dcde2a8e2f542a4a5f65b84c6bde4" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 23.332357544521287<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Blizzard/Winter storm<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_c6dfc55fdd0138e7432c49d0dad178c4.setContent(html_647dcde2a8e2f542a4a5f65b84c6bde4);
+            
+        
+
+        marker_a856ba19f4b0e01341e760b2560c9607.bindPopup(popup_c6dfc55fdd0138e7432c49d0dad178c4)
+        ;
+
+        
+    
+    
+            var marker_81181d58cf276329b052c3d69d2b1d23 = L.marker(
+                [32.396949768066406, 51.23680114746094],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_53c1eaed8df7fa4207ba013bc7743038 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_4ae1a63986878ab6747188e3eb706282 = $(`<div id="html_4ae1a63986878ab6747188e3eb706282" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 313.4946447212144<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Sand/Dust storm<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_53c1eaed8df7fa4207ba013bc7743038.setContent(html_4ae1a63986878ab6747188e3eb706282);
+            
+        
+
+        marker_81181d58cf276329b052c3d69d2b1d23.bindPopup(popup_53c1eaed8df7fa4207ba013bc7743038)
+        ;
+
+        
+    
+    
+            var marker_1d4749c818a40264b56f609744e05710 = L.marker(
+                [31.9248046875, -91.27978515625],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_a0d33fcf5349635d28d6deac48c3b8e2 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_1f15a33f9b0a308ffd59f6766cde56ea = $(`<div id="html_1f15a33f9b0a308ffd59f6766cde56ea" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 28.090318025438428<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Extra-tropical storm<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_a0d33fcf5349635d28d6deac48c3b8e2.setContent(html_1f15a33f9b0a308ffd59f6766cde56ea);
+            
+        
+
+        marker_1d4749c818a40264b56f609744e05710.bindPopup(popup_a0d33fcf5349635d28d6deac48c3b8e2)
+        ;
+
+        
+    
+    
+            var marker_7eaf4fc0d22971dcfc8d5ce43f22780f = L.marker(
+                [-15.0296630859375, 46.0263671875],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_f08084f015744ae6a6e495754778e86e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_07f3cdef705d6fcccc87fb60f1080753 = $(`<div id="html_07f3cdef705d6fcccc87fb60f1080753" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 0.0<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Ash Fall<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_f08084f015744ae6a6e495754778e86e.setContent(html_07f3cdef705d6fcccc87fb60f1080753);
+            
+        
+
+        marker_7eaf4fc0d22971dcfc8d5ce43f22780f.bindPopup(popup_f08084f015744ae6a6e495754778e86e)
+        ;
+
+        
+    
+    
+            var marker_23377376b53234aca0572680a41b80c3 = L.marker(
+                [29.384033203125, -85.34765625],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_741ebf706fc42e41987669f1b12c4643 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d30484e2ddeb8511fb824382070dd70e = $(`<div id="html_d30484e2ddeb8511fb824382070dd70e" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 92.7070116660475<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Ash Fall<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_741ebf706fc42e41987669f1b12c4643.setContent(html_d30484e2ddeb8511fb824382070dd70e);
+            
+        
+
+        marker_23377376b53234aca0572680a41b80c3.bindPopup(popup_741ebf706fc42e41987669f1b12c4643)
+        ;
+
+        
+    
+    
+            var marker_933be9ca39d94853f84c9792224b17fe = L.marker(
+                [30.012237548828125, 116.45770263671875],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_50b3c36d4a0885d5d5a97685239ed804 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_519db28963cbaff211019057a9657dd4 = $(`<div id="html_519db28963cbaff211019057a9657dd4" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 0.0<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Volcanic activity (General)<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_50b3c36d4a0885d5d5a97685239ed804.setContent(html_519db28963cbaff211019057a9657dd4);
+            
+        
+
+        marker_933be9ca39d94853f84c9792224b17fe.bindPopup(popup_50b3c36d4a0885d5d5a97685239ed804)
+        ;
+
+        
+    
+    
+            var marker_c133693195df30e87d4c6ce618569b76 = L.marker(
+                [-6.0904693603515625, 127.259765625],
+                {
+}
+            ).addTo(feature_group_52146c72f057b1723e29b8f7a76cae45);
+        
+    
+        var popup_2622ad138f51d20db7587d1de0194c9a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_0840d9556200e98def75e75bbe34dd44 = $(`<div id="html_0840d9556200e98def75e75bbe34dd44" style="width: 100.0%; height: 100.0%;"><strong>Total Deaths:</strong> 0.0<br><strong>Disaster type:</strong> storm<br><strong>Disaster subtype:</strong> Volcanic activity (General)<br><strong>Appeal:</strong> No</div>`)[0];
+                popup_2622ad138f51d20db7587d1de0194c9a.setContent(html_0840d9556200e98def75e75bbe34dd44);
+            
+        
+
+        marker_c133693195df30e87d4c6ce618569b76.bindPopup(popup_2622ad138f51d20db7587d1de0194c9a)
+        ;
+
+        
+    
+    
+            feature_group_52146c72f057b1723e29b8f7a76cae45.addTo(map_9f88b5fc111ec4807e7dd47b3ea224a9);
+        
+    
+            var heat_map_df3274de04f622a81f106ce5e42a3b8c = L.heatLayer(
+                [[18.7587890625, 117.71533203125, 1166.3319441894807], [25.073486328125, 90.7109375, 70959.4879749995], [26.68115234375, -81.48388671875, 156317.92261181583], [53.93310546875, 65.06982421875, 153719.05924401875], [46.707763671875, 16.33447265625, 70922.34433301186], [22.799072265625, -83.3291015625, 170.822335553161], [-16.205810546875, 46.99267578125, 210.14643878453646], [28.96826171875, 110.7451171875, 2851.334313246115], [48.1192626953125, 9.431640625, 113830.86934509914], [27.933837890625, 94.10400390625, 70032.63910747273], [48.011962890625, 8.70458984375, 70464.05063436381], [53.27379834651947, 17.745344161987305, 152040.9130351272], [13.2899169921875, -89.607421875, 373.5579658623093], [49.5552978515625, 52.3037109375, 570.8519487014489], [0.07763671875, 33.525390625, 1009.7501616461166], [33.972900390625, -90.5380859375, 69263.14539487779], [-14.380126953125, 106.2822265625, 215.0537616571208], [-33.9229736328125, 153.708984375, 8111.833603267665], [-29.7943115234375, 135.2431640625, 593.5789692521298], [26.120849609375, 103.16845703125, 138.59851872834042], [28.64990234375, 101.025390625, 69380.26974424993], [22.9671630859375, -83.9619140625, 68971.64879998345], [30.6123046875, -83.9716796875, 70828.9842246233], [36.05517578125, -83.6318359375, 72476.32071955714], [0.0118408203125, 18.4169921875, 70870.87744306732], [50.689208984375, 57.52392578125, 43238.43948549217], [47.777587890625, 4.48388671875, 153775.64624235727], [46.7646484375, 26.31787109375, 72856.8514010615], [25.09033203125, 103.6025390625, 114126.44345762828], [10.502197265625, 100.58349609375, 2140.637877664901], [35.744384765625, 106.392578125, 72857.43871340524], [-14.171142578125, 95.009765625, 523.6057770354048], [-16.0767822265625, 25.34814453125, 550.1558293645795], [1.368896484375, 27.7978515625, 69283.1764939928], [3.2059326171875, 10.2734375, 69011.23259298636], [-18.9676513671875, 29.85986328125, 27683.048441269097], [47.436279296875, 20.4375, 113804.90296126854], [34.7215576171875, -88.317626953125, 68475.67347890776], [31.6031494140625, 127.74658203125, 253.032947120386], [-16.40966796875, 158.0234375, 297.717567800829], [-28.0064697265625, 149.157470703125, 1618.2913522264396], [-33.0323486328125, 146.65380859375, 783.493320529602], [13.605687141418457, -89.0019302368164, 184.8116247876929], [-22.7890625, 155.19287109375, 205.98114137011783], [51.724365234375, 134.3671875, 1367.0143284486649], [-30.4295654296875, 28.57421875, 72862.54482679417], [32.396949768066406, 51.23680114746094, 113140.64073132166], [31.9248046875, -91.27978515625, 152437.98246368542], [-15.0296630859375, 46.0263671875, 237.21775896427536], [29.384033203125, -85.34765625, 29027.174049408473], [25.073486328125, 90.7109375, 1.0766792008153854], [26.68115234375, -81.48388671875, 12145.630833762563], [53.93310546875, 65.06982421875, 10645.805730926299], [22.799072265625, -83.3291015625, 65.65606037487935], [-16.205810546875, 46.99267578125, 25.945904680999316], [28.96826171875, 110.7451171875, 20005.031993665223], [27.933837890625, 94.10400390625, 40.70354001459512], [48.011962890625, 8.70458984375, 40.70354001459512], [0.07763671875, 33.525390625, 304.18398334447534], [33.972900390625, -90.5380859375, 44.04514498348233], [-29.7943115234375, 135.2431640625, 177.29872668990035], [26.120849609375, 103.16845703125, 44.89584998330747], [36.05517578125, -83.6318359375, 19.388448258652282], [36.634765625, -90.05322265625, 35.978872084920326], [50.689208984375, 57.52392578125, 35.978872084920326], [46.7646484375, 26.31787109375, 19.207940526792456], [35.744384765625, 106.392578125, 24.55901588811544], [-16.0767822265625, 25.34814453125, 41.36773951725793], [1.368896484375, 27.7978515625, 44.04514498348233], [-18.9676513671875, 29.85986328125, 178.87751603991353], [-33.0323486328125, 146.65380859375, 49.33565732337745], [-38.7991943359375, 163.2529296875, 245.3415323903057], [51.724365234375, 134.3671875, 69.239315125083], [-30.4295654296875, 28.57421875, 23.332357544521287], [32.396949768066406, 51.23680114746094, 313.4946447212144], [31.9248046875, -91.27978515625, 28.090318025438428], [29.384033203125, -85.34765625, 92.7070116660475]],
+                {
+  "minOpacity": 0.05,
+  "maxZoom": 18,
+  "radius": 25,
+  "blur": 15,
+  "gradient": {
+  "0.1": "blue",
+  "0.3": "lime",
+  "0.5": "yellow",
+  "0.7": "orange",
+  "1": "red",
+},
+  "maxOpacity": 0.9,
+  "useLocalExtrema": false,
+}
+            );
+        
+    
+            heat_map_df3274de04f622a81f106ce5e42a3b8c.addTo(map_9f88b5fc111ec4807e7dd47b3ea224a9);
+        
+</script>
+</html>
