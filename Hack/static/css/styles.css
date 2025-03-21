@@ -661,10 +661,12 @@ progress {
 }
 
 .conclusion {
-  text-align: center;
+  text-align: justify;
   max-width: 800px;  
   margin: 0 auto;    
-  padding: 0 1rem;
+  padding: 0;
+  width: fit-content;
+
 }
 
 

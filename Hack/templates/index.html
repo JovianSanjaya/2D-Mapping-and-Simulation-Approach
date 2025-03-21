@@ -38,7 +38,7 @@
                     <div class="text-center">
                         <h1 class="mx-auto my-0 text-uppercase" style="font-size: 35px;">Strategies to protect Endangered Species against Natural Disasters</h1>
                 
-                        <h2 class="text-white-50 mx-auto mt-2 mb-5">By Hong Yi, Hubert, Michelle, and Jovian</h2>
+                        <h2 class="text-white-50 mx-auto mt-2 mb-5">By Hong Yi, Hubert, Michel, and Jovian</h2>
                         <a class="btn btn-primary" href="#overview">Get Started</a>
                     </div>
                 </div>
@@ -171,7 +171,7 @@
                 </div>
 
                  <!-- Analysis 7 -->
-                 <div class="row gx-0 mb-8 mb-lg-8 align-items-center" data-aos="fade-up">
+                 <div class="row  gx-0 mb-lg-8 align-items-center" data-aos="fade-up">
                     <h1 class="text-white mb-4 title-content">What are the most affected countries by each type of natural disasters?</h1>
                     <h3 class="fig">Figure 8</h3>
                     <div class="col-xl-8 col-lg-7"><img class="img-fluid mb-3 mb-lg-0" src="../static/assets/img/output7.png" alt="..." /></div>
@@ -189,33 +189,18 @@
 
         <section class="projects-section bg-black " data-aos="fade-up">
             <h1 class="text-white mb-4 text-center title-content">Conclusion on the Analysis</h1>
-            <p class="text-white-50 text-center conclusion">From our analysis, we can conclude that the Indomalayan realm requires the most attention as it has a high concentration of all the species which are endangered and is highly vulnerable to all 3 natural disasters types (Earthquakes, Hurricanes and Volcanoes). <br> <br> 
+            <p class="text-white-50 text-center conclusion">From our analysis, we can conclude that the Indomalayan realm requires the most attention as it has a high concentration of all the species which are endangered and is highly vulnerable to all 3 natural disasters types (Earthquakes, Hurricanes and Volcanoes). 
 
                 More conservation efforts need to be focused on mammals and amphibians as shown Figure 3 as they have the highest percentage of endangered and critically endangered. <br> <br> 
                 
-                Referring to Figure 6, conservation efforts for amphibians should be focused towards volcanoes and earthquakes, for mammals and birds, it should be focused more towards earthquakes and hurricanes and for reptiles, it should be evenly focused on. <br> <br> 
+                Referring to Figure 6, conservation efforts for amphibians should be focused towards volcanoes and earthquakes, for mammals and birds, it should be focused more towards earthquakes and hurricanes and for reptiles, it should be evenly focused on. 
                 
                 Meanwhile, in the Neotropical realm, conservation efforts should be focused on reducing the impact of volcanoes, particularly for reptiles and amphibians. <br> <br> 
                 </p>
         </section>
-
-        <!-- <section class="projects-section bg-black" id="simulation" data-aos="fade-right">
-            <h1 class="text-white mb-4 text-center title-content">2D AI Geospatial Mapping and Simulation for Forecasting</h1>
-            <p class="text-white-50 text-center">We developed a simulation that can predict natural disasters and environmental biodiversity based on past data and user input.</p>
-
-            <div id="slider-container">
-                <span class="text-white-50" >Slide to show the map</span>  <br>
-                <label for="year-slider" class="text-white-50">Select Year</label>
-                <input type="range" id="year-slider" min="{{ years[0] }}" max="{{ years[-1] }}" value="{{ initial_year }}" step="1">
-                <span class="text-white-50", id="year-label"></span>
-            </div>
-            <div id="map-container" >
-                <iframe id="map-frame" width="100%" height="800" srcdoc="{{ map_html|safe }}"></iframe>
-            </div>
-        </section> -->
         
         <section class="projects-section bg-black" id="simulation" data-aos="fade-right">
-            <h1 class="text-white mb-4 text-center title-content">Disaster Data by Year</h1>
+            <h1 class="text-white mb-4 text-center title-content">2D AI Geospatial Mapping and Simulation</h1>
         
             <div id="slider-container">
                 <label for="year-slider" class="text-white-50">Select Year</label>
@@ -231,11 +216,26 @@
             <div id="map-container">
                 <iframe id="map-frame" width="100%" height="800" srcdoc="{{ map_html|safe }}"></iframe>
             </div>
+        
+            <p class="text-white-50 text-center conclusion" >
+                This forecasts disasters three years from 2018 (the dataset is from 1960-2018), for each disaster it predicts the location, the type of disaster, what disaster subtype it is and what the casualty rate would be if there is proper disaster relief efforts. It makes use of a time series model, a geospatial regression model and a regular regression model, all stack up in each other to create a seamless pipeline
+            </p>
+        </section>
+
+        <section class="projects-section bg-black " id="simulation" data-aos="fade-right">
+            <h1 class="text-white mb-4 text-center title-content">Impact and Relevance </h1>
+            <p class="text-white-50 text-center conclusion" >
+                We believe that this project is highly relevant as it addresses the issue of protecting endangered species against natural disasters. 
+                The project provides a comprehensive analysis of the impact of natural disasters on endangered species and provides insights on the conservation status of different animal classes. 
+                The project also highlights the most affected regiosn by each type of natural disaster and the risk levels different disasters have on different animal species.
+                The 2D AI geospatial mapping and simulation helps in predicting the impact of future disasters in particular regions.
+                This project can be used by stakeholders to develop strategies to protect endangered species against natural disasters. 
+                Lastly, we hope to bring this idea into reality for further development and contribute to the conservation efforts.
+            </p>
         </section>
         
+
         
-
-
         <!-- Signup-->
         <section class="signup-section" id="signup" data-aos="fade-right">
             <div class="container px-4 px-lg-5">
