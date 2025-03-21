@@ -50,6 +50,10 @@ Part a) is run on a Jupyter Notebook, whereas part b) is a website that is hoste
 
     # Activate virtual environment (MacOS and Linux)
     source venv_name/bin/activate
+
+    # If "cannot be loaded because running scripts is disabled on this system" error occurs, 
+    # run "Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope Process" before activating virtual environment.
+    
     ```
 * **Using conda (if you have Conda installed):**
     ```
