@@ -90,7 +90,7 @@ This repository contains an AI simulation pipeline that generates predicted disa
 
 If you only want to run the web app:
 
-1. **Create a Virtual Environment**
+1. **Create a Virtual Environment (if haven't make one)**
     * **Using venv :**
         ```
         # Install virtualenv (if you don't have it)
@@ -104,6 +104,9 @@ If you only want to run the web app:
 
         # Activate virtual environment (MacOS and Linux)
         source venv_name/bin/activate
+
+        # If "cannot be loaded because running scripts is disabled on this system" error occurs, 
+        # run "Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope Process" before activating virtual environment.
         ```
     * **Using conda (if you have Conda installed):**
         ```
