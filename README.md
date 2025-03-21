@@ -5,9 +5,9 @@ This README is split into 2 parts:
 1.  Introduction to our solution
 2.  Steps to reproduce our solution
     * a) Jupyter Notebook
-    * b) Web Application 
+    * b) Web Application with 2D AI Geospatial Mapping and Simulation
 
-## 1. Introduction to our solution
+## 1. Introduction and Overview
 
 **Hackathon Problem Statement:** "Analyse pertinent data trends concerning the biodiversity sector to improve the sector’s efficiency and abilities."
 
@@ -17,6 +17,8 @@ As the scope of the Hackathon problem statement is massive, we decided to craft 
 (which is a subset of the hackathon's problem statement)
 
 To tackle this we looked for relevant data online pertaining to these 2 topics and saw that we could analyze the data and glean useful information from historical data. But we wanted to go one step further and try and predict future data of some kind which would allow even more informed strategy and decision making, so that is what we did! :)
+
+Hence our solution has a two-pronged approach, data analysis and prediction. And by combining both we can come up with more effective strategies to protect endangered species against natural disasters. In the data analysis portion, we use a Jupyer Notebook to do explolatory data analysis and identify key trends and correlations on our natural disaster and endangered species data. In the prediction portion, we use a pipeline of 3 models - ARIMA, Gaussian Process Regression and Gradient Boosting Regression to forecast disaster data, which can geospatial data. To wrap it all up, we combine all the generated plots and charts into a website and then also integrate an interactive 2D map to visualize the predicted natural disaster time, location and severity. This enables informed decision-making and targeted conservation efforts, ultimately contributing to the preservation of biodiversity.
 
 ## 2. Steps to run the Analysis On Jupyter Notebook
 
@@ -169,10 +171,43 @@ The AI simulation pipeline consists of three sequential machine learning models:
 
 *Note:* Initially, the goal was to achieve real-time inference; however, due to slower inference times and limited development time, batch processing was implemented instead.
 
-## Additional Information 
-
-- If there is any configuration error please let us know through discord
-
-Thank you! :)
+## References
+## Citations
 
 
+
+**ARIMA Time-Series:**
+
+* Box, G. E. P., & Jenkins, G. M. (1970). Time Series Analysis: Forecasting and Control. San Francisco: Holden-Day.
+* statsmodels.tsa.arima.model.ARIMA: [https://www.statsmodels.org/stable/generated/statsmodels.tsa.arima.model.ARIMA.html](https://www.statsmodels.org/stable/generated/statsmodels.tsa.arima.model.ARIMA.html)
+* Google Books: Time Series Analysis: [https://books.google.com.sg/books/about/Time_Series_Analysis.html?id=5BVfnXaq03oC&redir_esc=y](https://books.google.com.sg/books/about/Time_Series_Analysis.html?id=5BVfnXaq03oC&redir_esc=y)
+
+**Gaussian Process Regressor:**
+
+* Williams, C. K. I., & Rasmussen, C. E. (1996). Gaussian Processes for Regression. In Advances in Neural Information Processing Systems 8 (pp. 514–520). MIT Press.
+* scikit-learn Gaussian Process: [https://scikit-learn.org/stable/modules/gaussian_process.html](https://scikit-learn.org/stable/modules/gaussian_process.html)
+* Aston Publications: [https://publications.aston.ac.uk/id/eprint/651/](https://publications.aston.ac.uk/id/eprint/651/)
+* ACM Digital Library: [https://dl.acm.org/doi/10.5555/3586589.3586821](https://dl.acm.org/doi/10.5555/3586589.3586821)
+
+**Gradient Boosting Regressor:**
+
+* Friedman, J. H. (2001). Greedy Function Approximation: A Gradient Boosting Machine. The Annals of Statistics, *29*(5), 1189–1232. [https://doi.org/10.1214/aos/1013203451](https://doi.org/10.1214/aos/1013203451)
+* scikit-learn Gradient Boosting Regressor: [https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html)
+* Wikipedia: Gradient Boosting: [https://en.wikipedia.org/wiki/Gradient_boosting](https://en.wikipedia.org/wiki/Gradient_boosting)
+
+**Datasets:**
+
+* EM-DAT: The International Disaster Database: [https://www.emdat.be/](https://www.emdat.be/)
+* NASA Earthdata: SEDAC CIESIN SEDAC PEND GDIS 1.00: [https://www.earthdata.nasa.gov/data/catalog/sedac-ciesin-sedac-pend-gdis-1.00](https://www.earthdata.nasa.gov/data/catalog/sedac-ciesin-sedac-pend-gdis-1.00)
+* CIESIN Columbia University: GDIS Codebook: [https://ciesin.columbia.edu/data/gdis-1960-2018/gdis-codebook-june2020.psdf](https://ciesin.columbia.edu/data/gdis-1960-2018/gdis-codebook-june2020.pdf)
+
+## Technology Stack
+Here are the different technologies that we used in our project:
+* NumPy
+* Pandas
+* Matplotlib
+* Scikit-learn
+* Bootstrap
+* Flask
+* Folium
+* Rasterio
