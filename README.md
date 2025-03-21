@@ -36,7 +36,7 @@ Part a) is run on a Jupyter Notebook, whereas part b) is a website that is hoste
     git clone https://github.com/JovianSanjaya/2D-Mapping-and-Simulation-Approach.git
     ```
 
-**2. (Reccomended) Create and activate Python Virtual Environment**
+**2. (Recommended) Create and activate Python Virtual Environment**
 * **Using venv :**
     ```
     # Install virtualenv (if you don't have it)
@@ -171,9 +171,8 @@ The AI simulation pipeline consists of three sequential machine learning models:
 
 *Note:* Initially, the goal was to achieve real-time inference; however, due to slower inference times and limited development time, batch processing was implemented instead.
 
-## References
-## Citations
 
+## Citations
 
 
 **ARIMA Time-Series:**
@@ -202,12 +201,12 @@ The AI simulation pipeline consists of three sequential machine learning models:
 * CIESIN Columbia University: GDIS Codebook: [https://ciesin.columbia.edu/data/gdis-1960-2018/gdis-codebook-june2020.psdf](https://ciesin.columbia.edu/data/gdis-1960-2018/gdis-codebook-june2020.pdf)
 
 ## Technology Stack
-Here are the different technologies that we used in our project:
-* NumPy
-* Pandas
-* Matplotlib
-* Scikit-learn
-* Bootstrap
-* Flask
-* Folium
-* Rasterio
+* [NumPy](https://numpy.org/doc/stable/) 
+* [Pandas](https://pandas.pydata.org/docs/)
+* [Matplotlib](https://matplotlib.org/stable/contents.html)
+* [Scikit-learn](https://scikit-learn.org/stable/user_guide.html)
+* [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+* [Flask](https://flask.palletsprojects.com/en/2.3.x/)
+* [Folium](https://python-visualization.github.io/folium/)
+* [Rasterio](https://rasterio.readthedocs.io/en/stable/)
+
